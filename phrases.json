@@ -1,0 +1,1493 @@
+[
+  {
+    "id": 1,
+    "quote": "Não há crime sem lei anterior que o defina. Não há pena sem prévia cominação legal.",
+    "artigo": "Art. 1º - Parte Geral, Título I - Da Aplicação da Lei Penal"
+  },
+  {
+    "id": 2,
+    "quote": "Ninguém pode ser punido por fato que lei posterior deixa de considerar crime, cessando em virtude dela a execução e os efeitos penais da sentença condenatória.",
+    "artigo": "Art. 2º - Parte Geral, Título I - Da Aplicação da Lei Penal"
+  },
+  {
+    "id": 3,
+    "quote": "A lei excepcional ou temporária, embora decorrido o período de sua duração ou cessadas as circunstâncias que a determinaram, aplica-se ao fato praticado durante sua vigência.",
+    "artigo": "Art. 3º - Parte Geral, Título I - Da Aplicação da Lei Penal"
+  },
+  {
+    "id": 4,
+    "quote": "Considera-se praticado o crime no momento da ação ou omissão, ainda que outro seja o momento do resultado.",
+    "artigo": "Art. 4º - Parte Geral, Título I - Da Aplicação da Lei Penal"
+  },
+  {
+    "id": 5,
+    "quote": "Aplica-se a lei brasileira, sem prejuízo de convenções, tratados e regras de direito internacional, ao crime cometido no território nacional.",
+    "artigo": "Art. 5º - Parte Geral, Título I - Da Aplicação da Lei Penal"
+  },
+  {
+    "id": 6,
+    "quote": "Considera-se praticado o crime no lugar em que ocorreu a ação ou omissão, no todo ou em parte, bem como onde se produziu ou deveria produzir-se o resultado.",
+    "artigo": "Art. 6º - Parte Geral, Título I - Da Aplicação da Lei Penal"
+  },
+  {
+    "id": 7,
+    "quote": "Ficam sujeitos à lei brasileira, embora cometidos no estrangeiro: I - os crimes: a) contra a vida ou a liberdade do Presidente da República; b) contra o patrimônio ou a fé pública da União, do Distrito Federal, de Estado, de Território, de Município, de empresa pública, sociedade de economia mista, autarquia ou fundação instituída pelo Poder Público; c) contra a administração pública, por quem está a seu serviço; d) de genocídio, quando o agente for brasileiro ou domiciliado no Brasil;",
+    "artigo": "Art. 7º - Parte Geral, Título I - Da Aplicação da Lei Penal"
+  },
+  {
+    "id": 8,
+    "quote": "A pena cumprida no estrangeiro atenua a pena imposta no Brasil pelo mesmo crime, quando diversas, ou nela é computada, quando idênticas.",
+    "artigo": "Art. 8º - Parte Geral, Título I - Da Aplicação da Lei Penal"
+  },
+  {
+    "id": 9,
+    "quote": "A sentença estrangeira, quando a aplicação da lei brasileira produz na espécie as mesmas conseqüências, pode ser homologada no Brasil para: I - obrigar o condenado à reparação do dano, a restituições e a outros efeitos civis; II - sujeitá-lo a medida de segurança.",
+    "artigo": "Art. 9º - Parte Geral, Título I - Da Aplicação da Lei Penal"
+  },
+  {
+    "id": 10,
+    "quote": "O dia do começo inclui-se no cômputo do prazo. Contam-se os dias, os meses e os anos pelo calendário comum.",
+    "artigo": "Art. 10 - Parte Geral, Título I - Da Aplicação da Lei Penal"
+  },
+  {
+    "id": 11,
+    "quote": "O resultado, de que depende a existência do crime, somente é imputável a quem lhe deu causa. Considera-se causa a ação ou omissão sem a qual o resultado não teria ocorrido.",
+    "artigo": "Art. 13 - Parte Geral, Título II - Do Crime"
+  },
+  {
+    "id": 12,
+    "quote": "Diz-se o crime: I - consumado, quando nele se reúnem todos os elementos de sua definição legal; II - tentado, quando, iniciada a execução, não se consuma por circunstâncias alheias à vontade do agente.",
+    "artigo": "Art. 14 - Parte Geral, Título II - Do Crime"
+  },
+  {
+    "id": 13,
+    "quote": "O agente que, voluntariamente, desiste de prosseguir na execução ou impede que o resultado se produza, só responde pelos atos já praticados.",
+    "artigo": "Art. 15 - Parte Geral, Título II - Do Crime"
+  },
+  {
+    "id": 14,
+    "quote": "Nos crimes cometidos sem violência ou grave ameaça à pessoa, reparado o dano ou restituída a coisa, até o recebimento da denúncia ou da queixa, por ato voluntário do agente, a pena será reduzida de um a dois terços.",
+    "artigo": "Art. 16 - Parte Geral, Título II - Do Crime"
+  },
+  {
+    "id": 15,
+    "quote": "Não se pune a tentativa quando, por ineficácia absoluta do meio ou por absoluta impropriedade do objeto, é impossível consumar-se o crime.",
+    "artigo": "Art. 17 - Parte Geral, Título II - Do Crime"
+  },
+  {
+    "id": 16,
+    "quote": "Diz-se o crime: I - doloso, quando o agente quis o resultado ou assumiu o risco de produzi-lo; II - culposo, quando o agente deu causa ao resultado por imprudência, negligência ou imperícia.",
+    "artigo": "Art. 18 - Parte Geral, Título II - Do Crime"
+  },
+  {
+    "id": 17,
+    "quote": "Salvo os casos expressos em lei, ninguém pode ser punido por fato previsto como crime, senão quando o pratica dolosamente.",
+    "artigo": "Art. 19 - Parte Geral, Título II - Do Crime"
+  },
+  {
+    "id": 18,
+    "quote": "O erro sobre elemento constitutivo do tipo legal de crime exclui o dolo, mas permite a punição por crime culposo, se previsto em lei.",
+    "artigo": "Art. 20 - Parte Geral, Título II - Do Crime"
+  },
+  {
+    "id": 19,
+    "quote": "O desconhecimento da lei é inescusável. O erro sobre a ilicitude do fato, se inevitável, isenta de pena; se evitável, poderá diminuí-la de um sexto a um terço.",
+    "artigo": "Art. 21 - Parte Geral, Título II - Do Crime"
+  },
+  {
+    "id": 20,
+    "quote": "Se o fato é cometido sob coação irresistível ou em estrita obediência a ordem, não manifestamente ilegal, de superior hierárquico, só é punível o autor da coação ou da ordem.",
+    "artigo": "Art. 22 - Parte Geral, Título II - Do Crime"
+  },
+  {
+    "id": 21,
+    "quote": "Não há crime quando o agente pratica o fato: I - em estado de necessidade; II - em legítima defesa; III - em estrito cumprimento de dever legal ou no exercício regular de direito.",
+    "artigo": "Art. 23 - Parte Geral, Título II - Do Crime"
+  },
+  {
+    "id": 22,
+    "quote": "Considera-se em estado de necessidade quem pratica o fato para salvar de perigo atual, que não provocou por sua vontade, nem podia de outro modo evitar, direito próprio ou alheio, cujo sacrifício, nas circunstâncias, não era razoável exigir-se.",
+    "artigo": "Art. 24 - Parte Geral, Título II - Do Crime"
+  },
+  {
+    "id": 23,
+    "quote": "Entende-se em legítima defesa quem, usando moderadamente dos meios necessários, repele injusta agressão, atual ou iminente, a direito seu ou de outrem.",
+    "artigo": "Art. 25 - Parte Geral, Título II - Do Crime"
+  },
+  {
+    "id": 24,
+    "quote": "É isento de pena o agente que, por doença mental ou desenvolvimento mental incompleto ou retardado, era, ao tempo da ação ou da omissão, inteiramente incapaz de entender o caráter ilícito do fato ou de determinar-se de acordo com esse entendimento.",
+    "artigo": "Art. 26 - Parte Geral, Título III - Da Imputabilidade Penal"
+  },
+  {
+    "id": 25,
+    "quote": "Os menores de 18 (dezoito) anos são penalmente inimputáveis, ficando sujeitos às normas estabelecidas na legislação especial.",
+    "artigo": "Art. 27 - Parte Geral, Título III - Da Imputabilidade Penal"
+  },
+  {
+    "id": 26,
+    "quote": "Não excluem a imputabilidade penal: I - a emoção ou a paixão; II - a embriaguez, voluntária ou culposa, pelo álcool ou substância de efeitos análogos.",
+    "artigo": "Art. 28 - Parte Geral, Título III - Da Imputabilidade Penal"
+  },
+  {
+    "id": 27,
+    "quote": "Quem, de qualquer modo, concorre para o crime incide nas penas a este cominadas, na medida de sua culpabilidade.",
+    "artigo": "Art. 29 - Parte Geral, Título IV - Do Concurso de Pessoas"
+  },
+  {
+    "id": 28,
+    "quote": "Não se comunicam as circunstâncias e as condições de caráter pessoal, salvo quando elementares do crime.",
+    "artigo": "Art. 30 - Parte Geral, Título IV - Do Concurso de Pessoas"
+  },
+  {
+    "id": 29,
+    "quote": "O ajuste, a determinação ou instigação e o auxílio, salvo disposição expressa em contrário, não são puníveis, se o crime não chega, pelo menos, a ser tentado.",
+    "artigo": "Art. 31 - Parte Geral, Título IV - Do Concurso de Pessoas"
+  },
+  {
+    "id": 30,
+    "quote": "Matar alguém: Pena - reclusão, de seis a vinte anos.",
+    "artigo": "Art. 121 - Parte Especial, Título I - Dos Crimes Contra a Pessoa, Capítulo I - Dos Crimes Contra a Vida"
+  },
+  {
+    "id": 31,
+    "quote": "Induzir ou instigar alguém a suicidar-se ou a praticar automutilação ou prestar-lhe auxílio material para que o faça: Pena - reclusão, de 6 (seis) meses a 2 (dois) anos.",
+    "artigo": "Art. 122 - Parte Especial, Título I - Dos Crimes Contra a Pessoa, Capítulo I - Dos Crimes Contra a Vida"
+  },
+  {
+    "id": 32,
+    "quote": "Matar, sob a influência do estado puerperal, o próprio filho, durante o parto ou logo após: Pena - detenção, de dois a seis anos.",
+    "artigo": "Art. 123 - Parte Especial, Título I - Dos Crimes Contra a Pessoa, Capítulo I - Dos Crimes Contra a Vida"
+  },
+  {
+    "id": 33,
+    "quote": "Provocar aborto em si mesma ou consentir que outrem lho provoque: Pena - detenção, de um a três anos.",
+    "artigo": "Art. 124 - Parte Especial, Título I - Dos Crimes Contra a Pessoa, Capítulo I - Dos Crimes Contra a Vida"
+  },
+  {
+    "id": 34,
+    "quote": "Provocar aborto, sem o consentimento da gestante: Pena - reclusão, de três a dez anos.",
+    "artigo": "Art. 125 - Parte Especial, Título I - Dos Crimes Contra a Pessoa, Capítulo I - Dos Crimes Contra a Vida"
+  },
+  {
+    "id": 35,
+    "quote": "Provocar aborto com o consentimento da gestante: Pena - reclusão, de um a quatro anos.",
+    "artigo": "Art. 126 - Parte Especial, Título I - Dos Crimes Contra a Pessoa, Capítulo I - Dos Crimes Contra a Vida"
+  },
+  {
+    "id": 36,
+    "quote": "Ofender a integridade corporal ou a saúde de outrem: Pena - detenção, de três meses a um ano.",
+    "artigo": "Art. 129 - Parte Especial, Título I - Dos Crimes Contra a Pessoa, Capítulo II - Das Lesões Corporais"
+  },
+  {
+    "id": 37,
+    "quote": "Expor alguém, por meio de relações sexuais ou qualquer ato libidinoso, a contágio de moléstia venéria, de que sabe ou deve saber que está contaminado: Pena - detenção, de três meses a um ano, ou multa.",
+    "artigo": "Art. 130 - Parte Especial, Título I - Dos Crimes Contra a Pessoa, Capítulo III - Da Periclitação da Vida e da Saúde"
+  },
+  {
+    "id": 38,
+    "quote": "Expor a perigo a vida ou a saúde de pessoa sob sua autoridade, guarda ou vigilância, para fim de educação, ensino, tratamento ou custódia, quer privando-a de alimentação ou dos cuidados indispensáveis, quer sujeitando-a a trabalho excessivo ou inadequado, quer abusando de meios de correção ou disciplina: Pena - detenção, de 2 (dois) meses a 1 (um) ano, ou multa.",
+    "artigo": "Art. 136 - Parte Especial, Título I - Dos Crimes Contra a Pessoa, Capítulo III - Da Periclitação da Vida e da Saúde"
+  },
+  {
+    "id": 39,
+    "quote": "Caluniar alguém, imputando-lhe falsamente fato definido como crime: Pena - detenção, de seis meses a dois anos, e multa.",
+    "artigo": "Art. 138 - Parte Especial, Título I - Dos Crimes Contra a Pessoa, Capítulo V - Dos Crimes Contra a Honra"
+  },
+  {
+    "id": 40,
+    "quote": "Difamar alguém, imputando-lhe fato ofensivo à sua reputação: Pena - detenção, de três meses a um ano, e multa.",
+    "artigo": "Art. 139 - Parte Especial, Título I - Dos Crimes Contra a Pessoa, Capítulo V - Dos Crimes Contra a Honra"
+  },
+  {
+    "id": 41,
+    "quote": "Injuriar alguém, ofendendo-lhe a dignidade ou o decoro: Pena - detenção, de um a seis meses, ou multa.",
+    "artigo": "Art. 140 - Parte Especial, Título I - Dos Crimes Contra a Pessoa, Capítulo V - Dos Crimes Contra a Honra"
+  },
+  {
+    "id": 42,
+    "quote": "Constranger alguém, mediante violência ou grave ameaça, ou depois de lhe haver reduzido, por qualquer outro meio, a capacidade de resistência, a não fazer o que a lei permite, ou a fazer o que ela não manda: Pena - detenção, de três meses a um ano, ou multa.",
+    "artigo": "Art. 146 - Parte Especial, Título I - Dos Crimes Contra a Pessoa, Capítulo VI - Dos Crimes contra a Liberdade Individual"
+  },
+  {
+    "id": 43,
+    "quote": "Ameaçar alguém, por palavra, escrito ou gesto, ou qualquer outro meio simbólico, de causar-lhe mal injusto e grave: Pena - detenção, de um a seis meses, ou multa.",
+    "artigo": "Art. 147 - Parte Especial, Título I - Dos Crimes Contra a Pessoa, Capítulo VI - Dos Crimes contra a Liberdade Individual"
+  },
+  {
+    "id": 44,
+    "quote": "Perseguir alguém, reiteradamente e por qualquer meio, ameaçando-lhe a integridade física ou psicológica, restringindo-lhe a capacidade de locomoção ou, de qualquer forma, invadindo ou perturbando sua esfera de liberdade ou privacidade. Pena – reclusão, de 6 (seis) meses a 2 (dois) anos, e multa.",
+    "artigo": "Art. 147-A - Parte Especial, Título I - Dos Crimes Contra a Pessoa, Capítulo VI - Dos Crimes contra a Liberdade Individual"
+  },
+  {
+    "id": 45,
+    "quote": "Sequestrar ou manter alguém em cárcere privado: Pena - reclusão, de um a três anos.",
+    "artigo": "Art. 148 - Parte Especial, Título I - Dos Crimes Contra a Pessoa, Capítulo VI - Dos Crimes contra a Liberdade Individual"
+  },
+  {
+    "id": 46,
+    "quote": "Reduzir alguém a condição análoga à de escravo, quer submetendo-o a trabalhos forçados ou a jornada exaustiva, quer sujeitando-o a condições degradantes de trabalho, quer restringindo, por qualquer meio, sua locomoção em razão de dívida contraída com o empregador ou preposto: Pena - reclusão, de dois a oito anos, e multa, além da pena correspondente à violência.",
+    "artigo": "Art. 149 - Parte Especial, Título I - Dos Crimes Contra a Pessoa, Capítulo VI - Dos Crimes contra a Liberdade Individual"
+  },
+  {
+    "id": 47,
+    "quote": "Subtrair, para si ou para outrem, coisa alheia móvel: Pena - reclusão, de um a quatro anos, e multa.",
+    "artigo": "Art. 155 - Parte Especial, Título II - Dos Crimes Contra o Patrimônio, Capítulo I - Do Furto"
+  },
+  {
+    "id": 48,
+    "quote": "Subtrair o condômino, co-herdeiro ou sócio, para si ou para outrem, a quem legitimamente a detém, a coisa comum: Pena - detenção, de seis meses a dois anos, ou multa.",
+    "artigo": "Art. 156 - Parte Especial, Título II - Dos Crimes Contra o Patrimônio, Capítulo I - Do Furto"
+  },
+  {
+    "id": 49,
+    "quote": "Subtrair coisa móvel alheia, para si ou para outrem, mediante grave ameaça ou violência a pessoa, ou depois de havê-la, por qualquer meio, reduzido à impossibilidade de resistência: Pena - reclusão, de quatro a dez anos, e multa.",
+    "artigo": "Art. 157 - Parte Especial, Título II - Dos Crimes Contra o Patrimônio, Capítulo II - Do Roubo e da Extorsão"
+  },
+  {
+    "id": 50,
+    "quote": "Constranger alguém, mediante violência ou grave ameaça, e com o intuito de obter para si ou para outrem indevida vantagem econômica, a fazer, tolerar que se faça ou deixar de fazer alguma coisa: Pena - reclusão, de quatro a dez anos, e multa.",
+    "artigo": "Art. 158 - Parte Especial, Título II - Dos Crimes Contra o Patrimônio, Capítulo II - Do Roubo e da Extorsão"
+  },
+  {
+    "id": 51,
+    "quote": "Seqüestrar pessoa com o fim de obter, para si ou para outrem, qualquer vantagem, como condição ou preço do resgate: Pena - reclusão, de oito a quinze anos.",
+    "artigo": "Art. 159 - Parte Especial, Título II - Dos Crimes Contra o Patrimônio, Capítulo II - Do Roubo e da Extorsão"
+  },
+  {
+    "id": 52,
+    "quote": "Danificar coisa alheia: Pena - detenção, de um a seis meses, ou multa.",
+    "artigo": "Art. 163 - Parte Especial, Título II - Dos Crimes Contra o Patrimônio, Capítulo IV - Do Dano"
+  },
+  {
+    "id": 53,
+    "quote": "Apropriar-se de coisa alheia móvel, de que tem a posse ou a detenção: Pena - reclusão, de um a quatro anos, e multa.",
+    "artigo": "Art. 168 - Parte Especial, Título II - Dos Crimes Contra o Patrimônio, Capítulo V - Da Apropriação Indébita"
+  },
+  {
+    "id": 54,
+    "quote": "Deixar de repassar à previdência social as contribuições recolhidas dos contribuintes, no prazo e forma legal ou convencional: Pena – reclusão, de 2 (dois) a 5 (cinco) anos, e multa.",
+    "artigo": "Art. 168-A - Parte Especial, Título II - Dos Crimes Contra o Patrimônio, Capítulo V - Da Apropriação Indébita"
+  },
+  {
+    "id": 55,
+    "quote": "Obter, para si ou para outrem, vantagem ilícita, em prejuízo alheio, induzindo ou mantendo alguém em erro, mediante artifício, ardil, ou qualquer outro meio fraudulento: Pena - reclusão, de um a cinco anos, e multa.",
+    "artigo": "Art. 171 - Parte Especial, Título II - Dos Crimes Contra o Patrimônio, Capítulo VI - Do Estelionato e Outras Fraudes"
+  },
+  {
+    "id": 56,
+    "quote": "Adquirir, receber, transportar, conduzir ou ocultar, em proveito próprio ou alheio, coisa que sabe ser produto de crime, ou influir para que terceiro, de boa-fé, a adquira, receba ou oculte: Pena - reclusão, de um a quatro anos, e multa.",
+    "artigo": "Art. 180 - Parte Especial, Título II - Dos Crimes Contra o Patrimônio, Capítulo VII - Da Receptação"
+  },
+  {
+    "id": 57,
+    "quote": "Violar direitos de autor e os que lhe são conexos: Pena - detenção, de 3 (três) meses a 1 (um) ano, ou multa.",
+    "artigo": "Art. 184 - Parte Especial, Título III - Dos Crimes Contra a Propriedade Imaterial, Capítulo I - Dos Crimes Contra a Propriedade Intelectual"
+  },
+  {
+    "id": 58,
+    "quote": "Atentado contra a liberdade de trabalho. Pena - detenção, de um mês a um ano, e multa, além da pena correspondente à violência.",
+    "artigo": "Art. 197 - Parte Especial, Título IV - Dos Crimes Contra a Organização do Trabalho"
+  },
+  {
+    "id": 59,
+    "quote": "Paralisação de trabalho, seguida de violência ou perturbação da ordem. Pena - detenção, de um mês a um ano, e multa, além da pena correspondente à violência.",
+    "artigo": "Art. 200 - Parte Especial, Título IV - Dos Crimes Contra a Organização do Trabalho"
+  },
+  {
+    "id": 60,
+    "quote": "Aliciar trabalhadores, com o fim de levá-los de uma para outra localidade do território nacional: Pena - detenção, de um a três anos, e multa.",
+    "artigo": "Art. 207 - Parte Especial, Título IV - Dos Crimes Contra a Organização do Trabalho"
+  },
+  {
+    "id": 61,
+    "quote": "Escarnecer de alguém publicamente, por motivo de crença ou função religiosa; impedir ou perturbar cerimônia ou prática de culto religioso; vilipendiar publicamente ato ou objeto de culto religioso: Pena - detenção, de um mês a um ano, ou multa.",
+    "artigo": "Art. 208 - Parte Especial, Título V - Dos Crimes Contra o Sentimento Religioso e Contra o Respeito aos Mortos"
+  },
+  {
+    "id": 62,
+    "quote": "Vilipendiar cadáver ou suas cinzas: Pena - detenção, de um a três anos, e multa.",
+    "artigo": "Art. 212 - Parte Especial, Título V - Dos Crimes Contra o Sentimento Religioso e Contra o Respeito aos Mortos"
+  },
+  {
+    "id": 63,
+    "quote": "Constranger alguém, mediante violência ou grave ameaça, a ter conjunção carnal ou a praticar ou permitir que com ele se pratique outro ato libidinoso: Pena - reclusão, de 6 (seis) a 10 (dez) anos.",
+    "artigo": "Art. 213 - Parte Especial, Título VI - Dos Crimes Contra a Dignidade Sexual, Capítulo I - Dos Crimes Contra a Liberdade Sexual"
+  },
+  {
+    "id": 64,
+    "quote": "Praticar contra alguém e sem a sua anuência ato libidinoso com o objetivo de satisfazer a própria lascívia ou a de terceiro: Pena - reclusão, de 1 (um) a 5 (cinco) anos, se o ato não constitui crime mais grave.",
+    "artigo": "Art. 215-A - Parte Especial, Título VI - Dos Crimes Contra a Dignidade Sexual, Capítulo I - Dos Crimes Contra a Liberdade Sexual"
+  },
+  {
+    "id": 65,
+    "quote": "Constranger alguém com o intuito de obter vantagem ou favorecimento sexual, prevalecendo-se o agente da sua condição de superior hierárquico ou ascendência inerentes ao exercício de emprego, cargo ou função. Pena - detenção, de 1 (um) a 2 (dois) anos.",
+    "artigo": "Art. 216-A - Parte Especial, Título VI - Dos Crimes Contra a Dignidade Sexual, Capítulo I - Dos Crimes Contra a Liberdade Sexual"
+  },
+  {
+    "id": 66,
+    "quote": "Ter conjunção carnal ou praticar outro ato libidinoso com menor de 14 (catorze) anos: Pena - reclusão, de 8 (oito) a 15 (quinze) anos.",
+    "artigo": "Art. 217-A - Parte Especial, Título VI - Dos Crimes Contra a Dignidade Sexual, Capítulo II - Dos Crimes Sexuais Contra Vulnerável"
+  },
+  {
+    "id": 67,
+    "quote": "Induzir alguém a satisfazer a lascívia de outrem: Pena - reclusão, de um a três anos.",
+    "artigo": "Art. 227 - Parte Especial, Título VI - Dos Crimes Contra a Dignidade Sexual, Capítulo III - Do Lenocínio e do Tráfico de Pessoa para fim de Prostituição ou outra forma de Exploração Sexual"
+  },
+  {
+    "id": 68,
+    "quote": "Promover ou facilitar a entrada, no território nacional, de alguém que nele venha a exercer a prostituição ou outra forma de exploração sexual, ou a saída de alguém que vá exercê-la no estrangeiro. Pena - reclusão, de 3 (três) a 8 (oito) anos.",
+    "artigo": "Art. 231 - Parte Especial, Título VI - Dos Crimes Contra a Dignidade Sexual, Capítulo III - Do Lenocínio e do Tráfico de Pessoa para fim de Prostituição ou outra forma de Exploração Sexual"
+  },
+  {
+    "id": 69,
+    "quote": "Contrair casamento, conhecendo a existência de impedimento que lhe cause a nulidade absoluta: Pena - detenção, de três meses a um ano.",
+    "artigo": "Art. 237 - Parte Especial, Título VII - Dos Crimes Contra a Família, Capítulo I - Dos Crimes Contra o Casamento"
+  },
+  {
+    "id": 70,
+    "quote": "Deixar, sem justa causa, de prover à subsistência do cônjuge, ou de filho menor de 18 (dezoito) anos ou inapto para o trabalho, ou de ascendente inválido ou maior de 60 (sessenta) anos, não lhes proporcionando os recursos necessários ou faltando ao pagamento de pensão alimentícia judicialmente acordada, fixada ou majorada; deixar, sem justa causa, de socorrer descendente ou ascendente, gravemente enfermo: Pena - detenção, de 1 (um) a 4 (quatro) anos e multa, de uma a dez vezes o maior salário mínimo vigente no País.",
+    "artigo": "Art. 244 - Parte Especial, Título VII - Dos Crimes Contra a Família, Capítulo III - Dos Crimes Contra a Assistência Familiar"
+  },
+  {
+    "id": 71,
+    "quote": "Abandonar filho menor de 18 (dezoito) anos, ou inapto para o trabalho, sem lhe prover a subsistência: Pena - detenção, de seis meses a dois anos.",
+    "artigo": "Art. 246 - Parte Especial, Título VII - Dos Crimes Contra a Família, Capítulo III - Dos Crimes Contra a Assistência Familiar"
+  },
+  {
+    "id": 72,
+    "quote": "Causar incêndio, expondo a perigo a vida, a integridade física ou o patrimônio de outrem: Pena - reclusão, de três a seis anos, e multa.",
+    "artigo": "Art. 250 - Parte Especial, Título VIII - Dos Crimes Contra a Incolumidade Pública, Capítulo I - Dos Crimes de Perigo Comum"
+  },
+  {
+    "id": 73,
+    "quote": "Causar explosão, expondo a perigo a vida, a integridade física ou o patrimônio de outrem: Pena - reclusão, de três a seis anos, e multa.",
+    "artigo": "Art. 251 - Parte Especial, Título VIII - Dos Crimes Contra a Incolumidade Pública, Capítulo I - Dos Crimes de Perigo Comum"
+  },
+  {
+    "id": 74,
+    "quote": "Expor a perigo embarcação ou aeronave, própria ou alheia, ou praticar qualquer ato tendente a impedir ou dificultar navegação marítima, fluvial ou aérea: Pena - reclusão, de dois a cinco anos.",
+    "artigo": "Art. 261 - Parte Especial, Título VIII - Dos Crimes Contra a Incolumidade Pública, Capítulo II - Dos Crimes Contra a Segurança dos Meios de Comunicação e Transporte e Outros Serviços Públicos"
+  },
+  {
+    "id": 75,
+    "quote": "Causar epidemia, mediante a propagação de germes patogênicos: Pena - reclusão, de dez a quinze anos.",
+    "artigo": "Art. 267 - Parte Especial, Título VIII - Dos Crimes Contra a Incolumidade Pública, Capítulo III - Dos Crimes Contra a Saúde Pública"
+  },
+  {
+    "id": 76,
+    "quote": "Infringir determinação do poder público, destinada a impedir introdução ou propagação de doença contagiosa: Pena - detenção, de um mês a um ano, e multa.",
+    "artigo": "Art. 268 - Parte Especial, Título VIII - Dos Crimes Contra a Incolumidade Pública, Capítulo III - Dos Crimes Contra a Saúde Pública"
+  },
+  {
+    "id": 77,
+    "quote": "Falsificar, corromper, adulterar ou alterar produto destinado a fins terapêuticos ou medicinais: Pena - reclusão, de 10 (dez) a 15 (quinze) anos, e multa.",
+    "artigo": "Art. 273 - Parte Especial, Título VIII - Dos Crimes Contra a Incolumidade Pública, Capítulo III - Dos Crimes Contra a Saúde Pública"
+  },
+  {
+    "id": 78,
+    "quote": "Exercer, ainda que a título gratuito, a profissão de médico, dentista ou farmacêutico, sem autorização legal ou excedendo-lhe os limites: Pena - detenção, de seis meses a dois anos.",
+    "artigo": "Art. 282 - Parte Especial, Título VIII - Dos Crimes Contra a Incolumidade Pública, Capítulo III - Dos Crimes Contra a Saúde Pública"
+  },
+  {
+    "id": 79,
+    "quote": "Incitar, publicamente, a prática de crime: Pena - detenção, de três a seis meses, ou multa.",
+    "artigo": "Art. 286 - Parte Especial, Título IX - Dos Crimes Contra a Paz Pública"
+  },
+  {
+    "id": 80,
+    "quote": "Fazer, publicamente, apologia de fato criminoso ou de autor de crime: Pena - detenção, de três a seis meses, ou multa.",
+    "artigo": "Art. 287 - Parte Especial, Título IX - Dos Crimes Contra a Paz Pública"
+  },
+  {
+    "id": 81,
+    "quote": "Associarem-se 3 (três) ou mais pessoas, para o fim específico de cometer crimes: Pena - reclusão, de 1 (um) a 3 (três) anos.",
+    "artigo": "Art. 288 - Parte Especial, Título IX - Dos Crimes Contra a Paz Pública"
+  },
+  {
+    "id": 82,
+    "quote": "Constituir, organizar, integrar, manter ou custear organização paramilitar, milícia particular, grupo ou esquadrão com a finalidade de praticar qualquer dos crimes previstos neste Código: Pena - reclusão, de 4 (quatro) a 8 (oito) anos.",
+    "artigo": "Art. 288-A - Parte Especial, Título IX - Dos Crimes Contra a Paz Pública"
+  },
+  {
+    "id": 83,
+    "quote": "Falsificar, fabricando-a ou alterando-a, moeda metálica ou papel-moeda de curso legal no país ou no estrangeiro: Pena - reclusão, de três a doze anos, e multa.",
+    "artigo": "Art. 289 - Parte Especial, Título X - Dos Crimes Contra a Fé Pública, Capítulo I - Da Moeda Falsa"
+  },
+  {
+    "id": 84,
+    "quote": "Falsificar, fabricando ou alterando, selo público destinado a autenticar atos oficiais da União, de Estado ou de Município: Pena - reclusão, de dois a seis anos, e multa.",
+    "artigo": "Art. 296 - Parte Especial, Título X - Dos Crimes Contra a Fé Pública, Capítulo III - Da Falsidade Documental"
+  },
+  {
+    "id": 85,
+    "quote": "Falsificar, no todo ou em parte, documento público, ou alterar documento público verdadeiro: Pena - reclusão, de dois a seis anos, e multa.",
+    "artigo": "Art. 297 - Parte Especial, Título X - Dos Crimes Contra a Fé Pública, Capítulo III - Da Falsidade Documental"
+  },
+  {
+    "id": 86,
+    "quote": "Omitir, em documento público ou particular, declaração que dele devia constar, ou nele inserir ou fazer inserir declaração falsa ou diversa da que devia ser escrita, com o fim de prejudicar direito, criar obrigação ou alterar a verdade sobre fato juridicamente relevante: Pena - reclusão de um a cinco anos, e multa, se o documento é público, e reclusão de um a três anos, e multa, se o documento é particular.",
+    "artigo": "Art. 299 - Parte Especial, Título X - Dos Crimes Contra a Fé Pública, Capítulo III - Da Falsidade Documental"
+  },
+  {
+    "id": 87,
+    "quote": "Usar, como próprio, passaporte, título de eleitor, caderneta de reservista ou qualquer documento de identidade alheia ou ceder a outrem, para que dele se utilize, documento dessa natureza, próprio ou de terceiro: Pena - detenção, de quatro meses a dois anos, e multa, se o fato não constitui elemento de crime mais grave.",
+    "artigo": "Art. 308 - Parte Especial, Título X - Dos Crimes Contra a Fé Pública, Capítulo IV - De Outras Falsidades"
+  },
+  {
+    "id": 88,
+    "quote": "Apropriar-se o funcionário público de dinheiro, valor ou qualquer outro bem móvel, público ou particular, de que tem a posse em razão do cargo, ou desviá-lo, em proveito próprio ou alheio: Pena - reclusão, de dois a doze anos, e multa.",
+    "artigo": "Art. 312 - Parte Especial, Título XI - Dos Crimes Contra a Administração Pública, Capítulo I - Dos Crimes Praticados por Funcionário Público Contra a Administração em Geral"
+  },
+  {
+    "id": 89,
+    "quote": "Exigir, para si ou para outrem, direta ou indiretamente, ainda que fora da função ou antes de assumi-la, mas em razão dela, vantagem indevida: Pena - reclusão, de 2 (dois) a 12 (doze) anos, e multa.",
+    "artigo": "Art. 316 - Parte Especial, Título XI - Dos Crimes Contra a Administração Pública, Capítulo I - Dos Crimes Praticados por Funcionário Público Contra a Administração em Geral"
+  },
+  {
+    "id": 90,
+    "quote": "Solicitar ou receber, para si ou para outrem, direta ou indiretamente, ainda que fora da função ou antes de assumi-la, mas em razão dela, vantagem indevida, ou aceitar promessa de tal vantagem: Pena - reclusão, de 2 (dois) a 12 (doze) anos, e multa.",
+    "artigo": "Art. 317 - Parte Especial, Título XI - Dos Crimes Contra a Administração Pública, Capítulo I - Dos Crimes Praticados por Funcionário Público Contra a Administração em Geral"
+  },
+  {
+    "id": 91,
+    "quote": "Retardar ou deixar de praticar, indevidamente, ato de ofício, ou praticá-lo contra disposição expressa de lei, para satisfazer interesse ou sentimento pessoal: Pena - detenção, de três meses a um ano, e multa.",
+    "artigo": "Art. 319 - Parte Especial, Título XI - Dos Crimes Contra a Administração Pública, Capítulo I - Dos Crimes Praticados por Funcionário Público Contra a Administração em Geral"
+  },
+  {
+    "id": 92,
+    "quote": "Praticar violência, no exercício de função ou a pretexto de exercê-la: Pena - detenção, de seis meses a três anos, além da pena correspondente à violência.",
+    "artigo": "Art. 322 - Parte Especial, Título XI - Dos Crimes Contra a Administração Pública, Capítulo I - Dos Crimes Praticados por Funcionário Público Contra a Administração em Geral"
+  },
+  {
+    "id": 93,
+    "quote": "Opor-se à execução de ato legal, mediante violência ou ameaça a funcionário competente para executá-lo ou a quem lhe esteja prestando auxílio: Pena - detenção, de dois meses a dois anos.",
+    "artigo": "Art. 329 - Parte Especial, Título XI - Dos Crimes Contra a Administração Pública, Capítulo II - Dos Crimes Praticados por Particular Contra a Administração em Geral"
+  },
+  {
+    "id": 94,
+    "quote": "Desacatar funcionário público no exercício da função ou em razão dela: Pena - detenção, de seis meses a dois anos, ou multa.",
+    "artigo": "Art. 331 - Parte Especial, Título XI - Dos Crimes Contra a Administração Pública, Capítulo II - Dos Crimes Praticados por Particular Contra a Administração em Geral"
+  },
+  {
+    "id": 95,
+    "quote": "Oferecer ou prometer vantagem indevida a funcionário público, para determiná-lo a praticar, omitir ou retardar ato de ofício: Pena - reclusão, de 2 (dois) a 12 (doze) anos, e multa.",
+    "artigo": "Art. 333 - Parte Especial, Título XI - Dos Crimes Contra a Administração Pública, Capítulo II - Dos Crimes Praticados por Particular Contra a Administração em Geral"
+  },
+  {
+    "id": 96,
+    "quote": "Dar causa à instauração de investigação policial, de processo judicial, instauração de investigação administrativa, inquérito civil ou ação de improbidade administrativa contra alguém, imputando-lhe crime de que o sabe inocente: Pena - reclusão, de dois a oito anos, e multa.",
+    "artigo": "Art. 339 - Parte Especial, Título XI - Dos Crimes Contra a Administração da Justiça"
+  },
+  {
+    "id": 97,
+    "quote": "Fazer afirmação falsa, ou negar ou calar a verdade como testemunha, perito, contador, tradutor ou intérprete em processo judicial, ou administrativo, inquérito policial, ou em juízo arbitral: Pena - reclusão, de 2 (dois) a 4 (quatro) anos, e multa.",
+    "artigo": "Art. 342 - Parte Especial, Título XI - Dos Crimes Contra a Administração da Justiça"
+  },
+  {
+    "id": 98,
+    "quote": "Promover ou auxiliar a fuga de pessoa legalmente presa ou submetida a medida de segurança detentiva: Pena - detenção, de seis meses a dois anos.",
+    "artigo": "Art. 351 - Parte Especial, Título XI - Dos Crimes Contra a Administração da Justiça"
+  },
+  {
+    "id": 99,
+    "quote": "Fraudar o caráter competitivo do procedimento licitatório, com o intuito de obter, para si ou para outrem, vantagem decorrente da adjudicação do objeto da licitação: Pena - detenção, de 2 (dois) a 4 (quatro) anos, e multa.",
+    "artigo": "Art. 337-F (inserido pela Lei de Licitações) - Parte Especial, Título XI - Dos Crimes em Licitações e Contratos Administrativos"
+  },
+  {
+    "id": 100,
+    "quote": "Admitir, possibilitar ou dar causa à contratação direta fora das hipóteses previstas em lei: Pena - reclusão, de 4 (quatro) a 8 (oito) anos, e multa.",
+    "artigo": "Art. 337-E (inserido pela Lei de Licitações) - Parte Especial, Título XI - Dos Crimes em Licitações e Contratos Administrativos"
+  },
+{
+      "id": 101,
+      "quote": "As penas são: I - privativas de liberdade; II - restritivas de direitos; III - de multa.",
+      "artigo": "Art. 32 - Parte Geral, Título V - Das Penas, Capítulo I - Das Espécies de Pena"
+    },
+
+    {
+      "id": 102,
+      "quote": "A pena de reclusão deve ser cumprida em regime fechado, semi-aberto ou aberto. A de detenção, em regime semi-aberto, ou aberto, salvo necessidade de transferência a regime fechado.",
+      "artigo": "Art. 33 - Parte Geral, Título V - Das Penas, Capítulo I - Das Espécies de Pena"
+    },
+    {
+      "id": 103,
+      "quote": "O juiz, atendendo à culpabilidade, aos antecedentes, à conduta social, à personalidade do agente, aos motivos, às circunstâncias e conseqüências do crime, bem como ao comportamento da vítima, estabelecerá, conforme seja necessário e suficiente para reprovação e prevenção do crime: ...",
+      "artigo": "Art. 59 - Parte Geral, Título V - Das Penas, Capítulo III - Da Aplicação da Pena"
+    },
+    {
+      "id": 104,
+      "quote": "São circunstâncias que sempre agravam a pena, quando não constituem ou qualificam o crime: I - a reincidência; II - ter o agente cometido o crime por motivo fútil ou torpe; ...",
+      "artigo": "Art. 61 - Parte Geral, Título V - Das Penas, Capítulo III - Da Aplicação da Pena"
+    },
+    {
+      "id": 105,
+      "quote": "São circunstâncias que sempre atenuam a pena: I - ser o agente menor de 21, na data do fato, ou maior de 70 anos, na data da sentença; II - o desconhecimento da lei; ...",
+      "artigo": "Art. 65 - Parte Geral, Título V - Das Penas, Capítulo III - Da Aplicação da Pena"
+    },
+    {
+      "id": 106,
+      "quote": "Quando o agente, mediante mais de uma ação ou omissão, pratica dois ou mais crimes, idênticos ou não, aplicam-se cumulativamente as penas privativas de liberdade em que haja incorrido.",
+      "artigo": "Art. 69 - Parte Geral, Título V - Das Penas, Capítulo III - Da Aplicação da Pena"
+    },
+    {
+      "id": 107,
+      "quote": "A execução da pena privativa de liberdade, não superior a 2 (dois) anos, poderá ser suspensa, por 2 (dois) a 4 (quatro) anos, desde que: I - o condenado não seja reincidente em crime doloso; ...",
+      "artigo": "Art. 77 - Parte Geral, Título V - Das Penas, Capítulo IV - Da Suspensão Condicional da Pena"
+    },
+    {
+      "id": 108,
+      "quote": "O juiz poderá conceder livramento condicional ao condenado a pena privativa de liberdade igual ou superior a 2 (dois) anos, desde que: ...",
+      "artigo": "Art. 83 - Parte Geral, Título V - Das Penas, Capítulo V - Do Livramento Condicional"
+    },
+    {
+      "id": 109,
+      "quote": "A ação penal é pública, salvo quando a lei expressamente a declara privativa do ofendido.",
+      "artigo": "Art. 100 - Parte Geral, Título VII - Da Ação Penal"
+    },
+    {
+      "id": 110,
+      "quote": "Extingue-se a punibilidade: I - pela morte do agente; II - pela anistia, graça ou indulto; III - pela retroatividade de lei que não mais considera o fato como criminoso; IV - pela prescrição, decadência ou perempção; ...",
+      "artigo": "Art. 107 - Parte Geral, Título VIII - Da Extinção da Punibilidade"
+    },
+    {
+      "id": 111,
+      "quote": "A prescrição, antes de transitar em julgado a sentença final, salvo o disposto no § 1º do art. 110 deste Código, regula-se pelo máximo da pena privativa de liberdade cominada ao crime, verificando-se: ...",
+      "artigo": "Art. 109 - Parte Geral, Título VIII - Da Extinção da Punibilidade"
+    },
+    {
+      "id": 112,
+      "quote": "Expor a perigo de contágio de moléstia grave: Pena - reclusão, de um a quatro anos, e multa.",
+      "artigo": "Art. 131 - Parte Especial, Título I - Dos Crimes Contra a Pessoa, Capítulo III - Da Periclitação da Vida e da Saúde"
+    },
+    {
+      "id": 113,
+      "quote": "Expor a vida ou a saúde de outrem a perigo direto e iminente: Pena - detenção, de três meses a um ano, se o fato não constitui crime mais grave.",
+      "artigo": "Art. 132 - Parte Especial, Título I - Dos Crimes Contra a Pessoa, Capítulo III - Da Periclitação da Vida e da Saúde"
+    },
+    {
+      "id": 114,
+      "quote": "Abandonar pessoa que está sob seu cuidado, guarda, vigilância ou autoridade, e, por qualquer motivo, incapaz de defender-se dos riscos resultantes do abandono: Pena - detenção, de seis meses a três anos.",
+      "artigo": "Art. 133 - Parte Especial, Título I - Dos Crimes Contra a Pessoa, Capítulo III - Da Periclitação da Vida e da Saúde"
+    },
+    {
+      "id": 115,
+      "quote": "Deixar de prestar assistência, quando possível fazê-lo sem risco pessoal, à criança abandonada ou extraviada, ou à pessoa inválida ou ferida, ao desamparo ou em grave e iminente perigo; ou não pedir, nesses casos, o socorro da autoridade pública: Pena - detenção, de um a seis meses, ou multa.",
+      "artigo": "Art. 135 - Parte Especial, Título I - Dos Crimes Contra a Pessoa, Capítulo III - Da Periclitação da Vida e da Saúde"
+    },
+    {
+      "id": 116,
+      "quote": "Participar de rixa, salvo para separar os contendores: Pena - detenção, de quinze dias a dois meses, ou multa.",
+      "artigo": "Art. 137 - Parte Especial, Título I - Dos Crimes Contra a Pessoa, Capítulo IV - Da Rixa"
+    },
+    {
+      "id": 117,
+      "quote": "Causar à mulher dano emocional que a prejudique e perturbe seu pleno desenvolvimento ou que vise a degradar ou a controlar suas ações, comportamentos, crenças e decisões, mediante ameaça, constrangimento, humilhação, manipulação, isolamento, chantagem, ridicularização, limitação do direito de ir e vir ou qualquer outro meio que lhe cause prejuízo à saúde psicológica e à autodeterminação: Pena - reclusão, de 6 (seis) meses a 2 (dois) anos, e multa.",
+      "artigo": "Art. 147-B - Parte Especial, Título I - Dos Crimes Contra a Pessoa, Capítulo VI - Dos Crimes contra a Liberdade Individual"
+    },
+    {
+      "id": 118,
+      "quote": "Agenciar, aliciar, recrutar, transportar, transferir, comprar, alojar ou acolher pessoa, mediante grave ameaça, violência, coação, fraude или abuso, com a finalidade de: I - remover-lhe órgãos, tecidos ou partes do corpo; II - submetê-la a trabalho em condições análogas à de escravo; III - submetê-la a qualquer tipo de servidão; IV - adoção ilegal; ou V - exploração sexual. Pena - reclusão, de 4 (quatro) a 8 (oito) anos, e multa.",
+      "artigo": "Art. 149-A - Parte Especial, Título I - Dos Crimes Contra a Pessoa, Capítulo VI - Dos Crimes contra a Liberdade Individual"
+    },
+    {
+      "id": 119,
+      "quote": "Entrar ou permanecer, clandestina ou astuciosamente, ou contra a vontade expressa ou tácita de quem de direito, em casa alheia ou em suas dependências: Pena - detenção, de um a três meses, ou multa.",
+      "artigo": "Art. 150 - Parte Especial, Título I - Dos Crimes Contra a Pessoa, Capítulo VI - Dos Crimes contra a Liberdade Individual"
+    },
+    {
+      "id": 120,
+      "quote": "Devassar indevidamente o conteúdo de correspondência fechada, dirigida a outrem: Pena - detenção, de um a seis meses, ou multa.",
+      "artigo": "Art. 151 - Parte Especial, Título I - Dos Crimes Contra a Pessoa, Capítulo VI - Dos Crimes contra a Liberdade Individual"
+    },
+    {
+      "id": 121,
+      "quote": "Divulgar alguém, sem justa causa, conteúdo de documento particular ou de correspondência confidencial, de que é destinatário ou detentor, e cuja divulgação possa produzir dano a outrem: Pena - detenção, de um a seis meses, ou multa.",
+      "artigo": "Art. 153 - Parte Especial, Título I - Dos Crimes Contra a Pessoa, Capítulo VI - Dos Crimes contra a Liberdade Individual"
+    },
+    {
+      "id": 122,
+      "quote": "Invadir dispositivo informático de uso alheio, conectado ou não à rede de computadores, com o fim de obter, adulterar ou destruir dados ou informações sem autorização expressa ou tácita do usuário do dispositivo ou de instalar vulnerabilidades para obter vantagem ilícita: Pena - reclusão, de 1 (um) a 4 (quatro) anos, e multa.",
+      "artigo": "Art. 154-A - Parte Especial, Título I - Dos Crimes Contra a Pessoa, Capítulo VI - Dos Crimes contra a Liberdade Individual"
+    },
+    {
+      "id": 123,
+      "quote": "Alterar o termo ou marco de lugar, público ou particular, para apropriar-se, no todo ou em parte, de coisa imóvel alheia: Pena - detenção, de um a seis meses, e multa.",
+      "artigo": "Art. 161 - Parte Especial, Título II - Dos Crimes Contra o Patrimônio, Capítulo III - Da Usurpação"
+    },
+    {
+      "id": 124,
+      "quote": "Apropriar-se alguém de coisa alheia vinda ao seu poder por erro, caso fortuito ou força da natureza: Pena - detenção, de um mês a um ano, ou multa.",
+      "artigo": "Art. 169 - Parte Especial, Título II - Dos Crimes Contra o Patrimônio, Capítulo V - Da Apropriação Indébita"
+    },
+    {
+      "id": 125,
+      "quote": "Emitir duplicata, fatura, nota de venda que não corresponda à mercadoria vendida, em quantidade ou qualidade, ou ao serviço prestado: Pena - detenção, de 2 (dois) a 4 (quatro) anos, e multa.",
+      "artigo": "Art. 172 - Parte Especial, Título II - Dos Crimes Contra o Patrimônio, Capítulo VI - Do Estelionato e Outras Fraudes"
+    },
+    {
+      "id": 126,
+      "quote": "Abusar, em proveito próprio ou alheio, de necessidade, paixão ou inexperiência de menor, ou da alienação ou debilidade mental de outrem, induzindo qualquer deles à prática de ato suscetível de produzir efeito jurídico, em prejuízo próprio ou de terceiro: Pena - reclusão, de dois a seis anos, e multa.",
+      "artigo": "Art. 173 - Parte Especial, Título II - Dos Crimes Contra o Patrimônio, Capítulo VI - Do Estelionato e Outras Fraudes"
+    },
+    {
+      "id": 127,
+      "quote": "Enganar, no exercício de atividade comercial, o adquirente ou consumidor: I - vendendo, como verdadeira ou perfeita, mercadoria falsificada ou deteriorada; II - entregando uma mercadoria por outra: Pena - detenção, de seis meses a dois anos, ou multa.",
+      "artigo": "Art. 175 - Parte Especial, Título II - Dos Crimes Contra o Patrimônio, Capítulo VI - Do Estelionato e Outras Fraudes"
+    },
+    {
+      "id": 128,
+      "quote": "Tomar refeição em restaurante, alojar-se em hotel ou utilizar-se de meio de transporte sem dispor de recursos para efetuar o pagamento: Pena - detenção, de quinze dias a dois meses, ou multa.",
+      "artigo": "Art. 176 - Parte Especial, Título II - Dos Crimes Contra o Patrimônio, Capítulo VI - Do Estelionato e Outras Fraudes"
+    },
+    {
+      "id": 129,
+      "quote": "Fraudar credores na execução de sentença ou de obrigação: Pena - detenção, de seis meses a dois anos, ou multa.",
+      "artigo": "Art. 179 - Parte Especial, Título II - Dos Crimes Contra o Patrimônio, Capítulo VI - Do Estelionato e Outras Fraudes"
+    },
+    {
+      "id": 130,
+      "quote": "Adquirir, receber, transportar, conduzir, ocultar, ter em depósito, desmontar, montar, remontar, vender, expor à venda, ou de qualquer forma utilizar, em proveito próprio ou alheio, no exercício de atividade comercial ou industrial, coisa que deve saber ser produto de crime: Pena - reclusão, de três a oito anos, e multa.",
+      "artigo": "Art. 180, § 1º (Receptação Qualificada) - Parte Especial, Título II - Dos Crimes Contra o Patrimônio, Capítulo VII - Da Receptação"
+    },
+    {
+      "id": 131,
+      "quote": "Violação de direito autoral de programa de computador: Pena - detenção, de seis meses a dois anos, ou multa.",
+      "artigo": "Art. 184, § 3º - Parte Especial, Título III - Dos Crimes Contra a Propriedade Imaterial, Capítulo I - Dos Crimes Contra a Propriedade Intelectual"
+    },
+    {
+      "id": 132,
+      "quote": "Constranger alguém, com emprego de violência ou grave ameaça, a celebrar contrato de trabalho, ou a não fornecer a alguém ou não adquirir de alguém matéria-prima ou produto industrial ou agrícola: Pena - detenção, de um mês a um ano, e multa, além da pena correspondente à violência.",
+      "artigo": "Art. 198 - Parte Especial, Título IV - Dos Crimes Contra a Organização do Trabalho"
+    },
+    {
+      "id": 133,
+      "quote": "Participar de suspensão ou abandono coletivo de trabalho, praticando violência contra pessoa ou contra coisa: Pena - detenção, de um mês a um ano, e multa, além da pena correspondente à violência.",
+      "artigo": "Art. 201 - Parte Especial, Título IV - Dos Crimes Contra a Organização do Trabalho"
+    },
+    {
+      "id": 134,
+      "quote": "Frustrar, mediante fraude ou violência, direito assegurado pela legislação do trabalho: Pena - detenção de um ano a dois anos, e multa, além da pena correspondente à violência.",
+      "artigo": "Art. 203 - Parte Especial, Título IV - Dos Crimes Contra a Organização do Trabalho"
+    },
+    {
+      "id": 135,
+      "quote": "Impedir ou perturbar enterro ou cerimônia funerária: Pena - detenção, de um mês a um ano, ou multa.",
+      "artigo": "Art. 209 - Parte Especial, Título V - Dos Crimes Contra o Sentimento Religioso e Contra o Respeito aos Mortos"
+    },
+    {
+      "id": 136,
+      "quote": "Violar ou profanar sepultura ou urna funerária: Pena - reclusão, de um a três anos, e multa.",
+      "artigo": "Art. 210 - Parte Especial, Título V - Dos Crimes Contra o Sentimento Religioso e Contra o Respeito aos Mortos"
+    },
+    {
+      "id": 137,
+      "quote": "Destruir, subtrair ou ocultar cadáver ou parte dele: Pena - reclusão, de um a três anos, e multa.",
+      "artigo": "Art. 211 - Parte Especial, Título V - Dos Crimes Contra o Sentimento Religioso e Contra o Respeito aos Mortos"
+    },
+    {
+      "id": 138,
+      "quote": "Oferecer, trocar, disponibilizar, transmitir, vender ou expor à venda, distribuir, publicar ou divulgar, por qualquer meio - inclusive por meio de comunicação de massa ou sistema de informática ou telemática -, fotografia, vídeo ou outro registro audiovisual que contenha cena de estupro ou de estupro de vulnerável ou que faça apologia ou induza a sua prática, ou, sem o consentimento da vítima, cena de sexo, nudez ou pornografia: Pena - reclusão, de 1 (um) a 5 (cinco) anos, se o fato não constitui crime mais grave.",
+      "artigo": "Art. 218-C - Parte Especial, Título VI - Dos Crimes Contra a Dignidade Sexual"
+    },
+    {
+      "id": 139,
+      "quote": "Manter, por conta própria ou de terceiro, estabelecimento em que ocorra exploração sexual, haja, ou não, intuito de lucro ou mediação direta do proprietário ou gerente: Pena - reclusão, de dois a cinco anos, e multa.",
+      "artigo": "Art. 229 - Parte Especial, Título VI - Dos Crimes Contra a Dignidade Sexual, Capítulo III - Do Lenocínio e do Tráfico de Pessoa"
+    },
+    {
+      "id": 140,
+      "quote": "Tirar proveito da prostituição alheia, participando diretamente de seus lucros ou fazendo-se sustentar, no todo ou em parte, por quem a exerça: Pena - reclusão, de um a quatro anos, e multa.",
+      "artigo": "Art. 230 - Parte Especial, Título VI - Dos Crimes Contra a Dignidade Sexual, Capítulo III - Do Lenocínio e do Tráfico de Pessoa"
+    },
+    {
+      "id": 141,
+      "quote": "Contrair casamento, induzindo em erro essencial o outro contraente, ou ocultando-lhe impedimento que não seja casamento anterior: Pena - detenção, de seis meses a dois anos.",
+      "artigo": "Art. 236 - Parte Especial, Título VII - Dos Crimes Contra a Família, Capítulo I - Dos Crimes Contra o Casamento"
+    },
+    {
+      "id": 142,
+      "quote": "Registrar como seu o filho de outrem; ocultar recém-nascido ou substituí-lo, suprimindo ou alterando direito inerente ao estado civil: Pena - reclusão, de dois a seis anos.",
+      "artigo": "Art. 242 - Parte Especial, Título VII - Dos Crimes Contra a Família, Capítulo II - Dos Crimes Contra o Estado de Filiação"
+    },
+    {
+      "id": 143,
+      "quote": "Promover no registro civil a inscrição de nascimento inexistente: Pena - reclusão, de dois a seis anos.",
+      "artigo": "Art. 241 - Parte Especial, Título VII - Dos Crimes Contra a Família, Capítulo II - Dos Crimes Contra o Estado de Filiação"
+    },
+    {
+      "id": 144,
+      "quote": "Deixar, sem justa causa, de auxiliar a autoridade no exercício de suas funções, quando requisitado: Pena - detenção, de quinze dias a seis meses, e multa.",
+      "artigo": "Art. 245 - Parte Especial, Título VII - Dos Crimes Contra a Família, Capítulo III - Dos Crimes Contra a Assistência Familiar"
+    },
+    {
+      "id": 145,
+      "quote": "Entregar filho menor de 18 (dezoito) anos a pessoa em cuja companhia saiba ou deva saber que o menor fica moral ou materialmente em perigo: Pena - detenção, de um a dois anos.",
+      "artigo": "Art. 247 - Parte Especial, Título VII - Dos Crimes Contra a Família, Capítulo III - Dos Crimes Contra a Assistência Familiar"
+    },
+    {
+      "id": 146,
+      "quote": "Induzir menor de dezoito anos, ou interdito, a fugir do lugar em que se acha por determinação de quem sobre ele exerce autoridade, em virtude de lei ou de ordem judicial; confiar a outrem sem ordem do pai, do tutor ou do curador, ou de quem legitimamente o tenha sob sua guarda, ou subtraí-lo ao poder de qualquer dessas pessoas: Pena - detenção, de um mês a um ano, ou multa.",
+      "artigo": "Art. 248 - Parte Especial, Título VII - Dos Crimes Contra a Família, Capítulo IV - Dos Crimes Contra o Pátrio Poder, Tutela ou Curatela"
+    },
+    {
+      "id": 147,
+      "quote": "Subtrair menor de dezoito anos ou interdito ao poder de quem o tem sob sua guarda em virtude de lei ou de ordem judicial: Pena - detenção, de dois meses a dois anos, se o fato não constitui elemento de outro crime.",
+      "artigo": "Art. 249 - Parte Especial, Título VII - Dos Crimes Contra a Família, Capítulo IV - Dos Crimes Contra o Pátrio Poder, Tutela ou Curatela"
+    },
+    {
+      "id": 148,
+      "quote": "Usar de gás tóxico ou asfixiante: Pena - reclusão, de um a quatro anos.",
+      "artigo": "Art. 252 - Parte Especial, Título VIII - Dos Crimes Contra a Incolumidade Pública, Capítulo I - Dos Crimes de Perigo Comum"
+    },
+    {
+      "id": 149,
+      "quote": "Fabricar, fornecer, adquirir, possuir ou transportar, sem licença da autoridade, substância ou engenho explosivo, gás tóxico ou asfixiante, ou material destinado à sua fabricação: Pena - detenção, de seis meses a dois anos, e multa.",
+      "artigo": "Art. 253 - Parte Especial, Título VIII - Dos Crimes Contra a Incolumidade Pública, Capítulo I - Dos Crimes de Perigo Comum"
+    },
+    {
+      "id": 150,
+      "quote": "Inundar ou submergir terras alheias, para o fim de impedir ou dificultar a sua cultura, ou com o fim de causar dano a animais ou a plantas: Pena - detenção, de seis meses a dois anos, e multa.",
+      "artigo": "Art. 255 - Parte Especial, Título VIII - Dos Crimes Contra a Incolumidade Pública, Capítulo I - Dos Crimes de Perigo Comum"
+    },
+    {
+      "id": 151,
+      "quote": "Causar desabamento ou desmoronamento, expondo a perigo a vida, a integridade física ou o patrimônio de outrem: Pena - reclusão, de um a quatro anos, e multa.",
+      "artigo": "Art. 256 - Parte Especial, Título VIII - Dos Crimes Contra a Incolumidade Pública, Capítulo I - Dos Crimes de Perigo Comum"
+    },
+    {
+      "id": 152,
+      "quote": "Subtrair, ocultar ou inutilizar, por ocasião de incêndio, inundação, naufrágio, ou outro desastre ou calamidade, aparelho, material ou qualquer meio destinado a serviço de combate ao perigo, de socorro ou salvamento; ou impedir ou dificultar serviço de tal natureza: Pena - reclusão, de dois a cinco anos, e multa.",
+      "artigo": "Art. 257 - Parte Especial, Título VIII - Dos Crimes Contra a Incolumidade Pública, Capítulo I - Dos Crimes de Perigo Comum"
+    },
+    {
+      "id": 153,
+      "quote": "Arremessar projétil contra veículo, em movimento, destinado ao transporte público por terra, por água ou pelo ar: Pena - detenção, de um a seis meses.",
+      "artigo": "Art. 264 - Parte Especial, Título VIII - Dos Crimes Contra a Incolumidade Pública, Capítulo II - Dos Crimes Contra a Segurança dos Meios de Comunicação e Transporte"
+    },
+    {
+      "id": 154,
+      "quote": "Interromper ou perturbar serviço telegráfico, radiotelegráfico ou telefônico, impedir ou dificultar-lhe o restabelecimento: Pena - detenção, de um a três anos, e multa.",
+      "artigo": "Art. 266 - Parte Especial, Título VIII - Dos Crimes Contra a Incolumidade Pública, Capítulo II - Dos Crimes Contra a Segurança dos Meios de Comunicação e Transporte"
+    },
+    {
+      "id": 155,
+      "quote": "Envenenar água potável, de uso comum ou particular, ou substância alimentícia ou medicinal destinada a consumo: Pena - reclusão, de dez a quinze anos.",
+      "artigo": "Art. 270 - Parte Especial, Título VIII - Dos Crimes Contra a Incolumidade Pública, Capítulo III - Dos Crimes Contra a Saúde Pública"
+    },
+    {
+      "id": 156,
+      "quote": "Exercício ilegal da medicina, arte dentária ou farmacêutica. Pena - detenção, de seis meses a dois anos.",
+      "artigo": "Art. 282 - Parte Especial, Título VIII - Dos Crimes Contra a Incolumidade Pública, Capítulo III - Dos Crimes Contra a Saúde Pública"
+    },
+    {
+      "id": 157,
+      "quote": "Inculcar ou anunciar cura por meio secreto ou infalível: Pena - detenção, de três meses a um ano, e multa.",
+      "artigo": "Art. 283 - Parte Especial, Título VIII - Dos Crimes Contra a Incolumidade Pública, Capítulo III - Dos Crimes Contra a Saúde Pública"
+    },
+    {
+      "id": 158,
+      "quote": "Exercer o curandeirismo: I - prescrevendo, ministrando ou aplicando, habitualmente, qualquer substância; II - usando gestos, palavras ou qualquer outro meio; III - fazendo diagnósticos: Pena - detenção, de seis meses a dois anos.",
+      "artigo": "Art. 284 - Parte Especial, Título VIII - Dos Crimes Contra a Incolumidade Pública, Capítulo III - Dos Crimes Contra a Saúde Pública"
+    },
+    {
+      "id": 159,
+      "quote": "Formar, com o fim de lucro, ou dirigir associação destinada a ter por objeto a prática de qualquer dos crimes previstos no artigo anterior: Pena - reclusão, de um a três anos.",
+      "artigo": "Art. 285 - Parte Especial, Título VIII - Dos Crimes Contra a Incolumidade Pública, Capítulo III - Dos Crimes Contra a Saúde Pública"
+    },
+    {
+      "id": 160,
+      "quote": "Petrechos para falsificação de moeda. Pena - reclusão, de dois a seis anos, e multa.",
+      "artigo": "Art. 291 - Parte Especial, Título X - Dos Crimes Contra a Fé Pública, Capítulo I - Da Moeda Falsa"
+    },
+    {
+      "id": 161,
+      "quote": "Falsificar, fabricando-os ou alterando-os: I - selo destinado a controle tributário, papel selado ou qualquer papel de emissão legal destinado à arrecadação de tributo; II - papel de crédito público que não seja moeda de curso legal; III - vale postal; IV - cautela de penhor, caderneta de depósito de caixa econômica ou de outro estabelecimento mantido por entidade de direito público; V - talão, recibo, guia, alvará ou qualquer outro documento relativo a arrecadação de rendas públicas ou a depósito ou caução por que o poder público seja responsável; VI - bilhete, passe ou conhecimento de empresa de transporte administrada pela União, por Estado ou por Município: Pena - reclusão, de dois a oito anos, e multa.",
+      "artigo": "Art. 293 - Parte Especial, Título X - Dos Crimes Contra a Fé Pública, Capítulo II - Da Falsidade de Títulos e Outros Papéis Públicos"
+    },
+    {
+      "id": 162,
+      "quote": "Falsificar, no todo ou em parte, documento particular ou alterar o documento particular verdadeiro: Pena - reclusão, de um a cinco anos, e multa.",
+      "artigo": "Art. 298 - Parte Especial, Título X - Dos Crimes Contra a Fé Pública, Capítulo III - Da Falsidade Documental"
+    },
+    {
+      "id": 163,
+      "quote": "Atestar ou certificar falsamente, em razão de função pública, fato ou circunstância que habilite alguém a obter cargo público, isenção de ônus ou de serviço de caráter público, ou qualquer outra vantagem: Pena - detenção, de dois meses a um ano.",
+      "artigo": "Art. 301 - Parte Especial, Título X - Dos Crimes Contra a Fé Pública, Capítulo III - Da Falsidade Documental"
+    },
+    {
+      "id": 164,
+      "quote": "Reconhecer, como verdadeira, no exercício de função pública, firma ou letra que o não seja: Pena - reclusão, de um a cinco anos, e multa, se o documento é público; e de um a três, e multa, se o documento é particular.",
+      "artigo": "Art. 300 - Parte Especial, Título X - Dos Crimes Contra a Fé Pública, Capítulo III - Da Falsidade Documental"
+    },
+    {
+      "id": 165,
+      "quote": "Fazer uso de qualquer dos papéis falsificados ou alterados, a que se referem os arts. 297 a 302: Pena - a cominada à falsificação ou à alteração.",
+      "artigo": "Art. 304 - Parte Especial, Título X - Dos Crimes Contra a Fé Pública, Capítulo III - Da Falsidade Documental"
+    },
+    {
+      "id": 166,
+      "quote": "Atribuir-se ou atribuir a terceiro falsa identidade para obter vantagem, em proveito próprio ou alheio, ou para causar dano a outrem: Pena - detenção, de três meses a um ano, ou multa, se o fato não constitui elemento de crime mais grave.",
+      "artigo": "Art. 307 - Parte Especial, Título X - Dos Crimes Contra a Fé Pública, Capítulo IV - De Outras Falsidades"
+    },
+    {
+      "id": 167,
+      "quote": "Fraudar, em prejuízo da Fazenda Pública, o pagamento de direito ou imposto devido pela entrada, pela saída ou pelo consumo de mercadoria: Pena - reclusão, de um a quatro anos.",
+      "artigo": "Art. 310 - Parte Especial, Título X - Dos Crimes Contra a Fé Pública, Capítulo IV - De Outras Falsidades"
+    },
+    {
+      "id": 168,
+      "quote": "Utilizar ou divulgar, indevidamente, com o fim de beneficiar a si ou a outrem, ou de comprometer a credibilidade do certame, conteúdo sigiloso de: I - concurso público; II - avaliação ou exame públicos; III - processo seletivo para ingresso no ensino superior; ou IV - exame ou processo seletivo previstos em lei: Pena - reclusão, de 1 (um) a 4 (quatro) anos, e multa.",
+      "artigo": "Art. 311-A - Parte Especial, Título X - Dos Crimes Contra a Fé Pública, Capítulo V - Das Fraudes em Certames de Interesse Público"
+    },
+    {
+      "id": 169,
+      "quote": "Apropriar-se de dinheiro ou qualquer utilidade que, no exercício do cargo, recebeu por erro de outrem: Pena - reclusão, de um a quatro anos, e multa.",
+      "artigo": "Art. 313 - Parte Especial, Título XI - Dos Crimes Contra a Administração Pública, Capítulo I - Dos Crimes Praticados por Funcionário Público Contra a Administração em Geral"
+    },
+    {
+      "id": 170,
+      "quote": "Inserir ou facilitar, o funcionário autorizado, a inserção de dados falsos, alterar ou excluir indevidamente dados corretos nos sistemas informatizados ou bancos de dados da Administração Pública com o fim de obter vantagem indevida para si ou para outrem ou para causar dano: Pena - reclusão, de 2 (dois) a 12 (doze) anos, e multa.",
+      "artigo": "Art. 313-A - Parte Especial, Título XI - Dos Crimes Contra a Administração Pública, Capítulo I - Dos Crimes Praticados por Funcionário Público Contra a Administração em Geral"
+    },
+    {
+      "id": 171,
+      "quote": "Modificar ou alterar, o funcionário, sistema de informações ou programa de informática sem autorização ou solicitação de autoridade competente: Pena - detenção, de 3 (três) meses a 2 (dois) anos, e multa.",
+      "artigo": "Art. 313-B - Parte Especial, Título XI - Dos Crimes Contra a Administração Pública, Capítulo I - Dos Crimes Praticados por Funcionário Público Contra a Administração em Geral"
+    },
+    {
+      "id": 172,
+      "quote": "Extraviar livro oficial ou qualquer documento, de que tem a guarda em razão do cargo; sonegá-lo ou inutilizá-lo, total ou parcialmente: Pena - reclusão, de um a quatro anos, se o fato não constitui crime mais grave.",
+      "artigo": "Art. 314 - Parte Especial, Título XI - Dos Crimes Contra a Administração Pública, Capítulo I - Dos Crimes Praticados por Funcionário Público Contra a Administração em Geral"
+    },
+    {
+      "id": 173,
+      "quote": "Dar às verbas ou rendas públicas aplicação diversa da estabelecida em lei: Pena - detenção, de um a três meses, ou multa.",
+      "artigo": "Art. 315 - Parte Especial, Título XI - Dos Crimes Contra a Administração Pública, Capítulo I - Dos Crimes Praticados por Funcionário Público Contra a Administração em Geral"
+    },
+    {
+      "id": 174,
+      "quote": "Facilitar, com infração de dever funcional, a prática de contrabando ou descaminho (art. 334): Pena - reclusão, de 3 (três) a 8 (oito) anos, e multa.",
+      "artigo": "Art. 318 - Parte Especial, Título XI - Dos Crimes Contra a Administração Pública, Capítulo I - Dos Crimes Praticados por Funcionário Público Contra a Administração em Geral"
+    },
+    {
+      "id": 175,
+      "quote": "Deixar o Diretor de Penitenciária e/ou agente público, de cumprir seu dever de vedar ao preso o acesso a aparelho telefônico, de rádio ou similar, que permita a comunicação com outros presos ou com o ambiente externo: Pena: detenção, de 3 (três) meses a 1 (um) ano.",
+      "artigo": "Art. 319-A - Parte Especial, Título XI - Dos Crimes Contra a Administração Pública, Capítulo I - Dos Crimes Praticados por Funcionário Público Contra a Administração em Geral"
+    },
+    {
+      "id": 176,
+      "quote": "Patrocinar, direta ou indiretamente, interesse privado perante a administração pública, valendo-se da qualidade de funcionário: Pena - detenção, de um a três meses, ou multa.",
+      "artigo": "Art. 321 - Parte Especial, Título XI - Dos Crimes Contra a Administração Pública, Capítulo I - Dos Crimes Praticados por Funcionário Público Contra a Administração em Geral"
+    },
+    {
+      "id": 177,
+      "quote": "Revelar fato de que tem ciência em razão do cargo e que deva permanecer em segredo, ou facilitar-lhe a revelação: Pena - detenção, de seis meses a dois anos, ou multa, se o fato não constitui crime mais grave.",
+      "artigo": "Art. 325 - Parte Especial, Título XI - Dos Crimes Contra a Administração Pública, Capítulo I - Dos Crimes Praticados por Funcionário Público Contra a Administração em Geral"
+    },
+    {
+      "id": 178,
+      "quote": "Usurpar o exercício de função pública: Pena - detenção, de três meses a dois anos, e multa.",
+      "artigo": "Art. 328 - Parte Especial, Título XI - Dos Crimes Contra a Administração Pública, Capítulo II - Dos Crimes Praticados por Particular Contra a Administração em Geral"
+    },
+    {
+      "id": 179,
+      "quote": "Desobedecer a ordem legal de funcionário público: Pena - detenção, de quinze dias a seis meses, e multa.",
+      "artigo": "Art. 330 - Parte Especial, Título XI - Dos Crimes Contra a Administração Pública, Capítulo II - Dos Crimes Praticados por Particular Contra a Administração em Geral"
+    },
+    {
+      "id": 180,
+      "quote": "Solicitar, exigir, cobrar ou obter, para si ou para outrem, vantagem ou promessa de vantagem, a pretexto de influir em ato praticado por funcionário público no exercício da função: Pena - reclusão, de 2 (dois) a 5 (cinco) anos, e multa.",
+      "artigo": "Art. 332 - Parte Especial, Título XI - Dos Crimes Contra a Administração Pública, Capítulo II - Dos Crimes Praticados por Particular Contra a Administração em Geral"
+    },
+    {
+      "id": 181,
+      "quote": "Importar ou exportar mercadoria proibida: Pena - reclusão, de 2 (dois) a 5 (cinco) anos.",
+      "artigo": "Art. 334 - Parte Especial, Título XI - Dos Crimes Contra a Administração Pública, Capítulo II - Dos Crimes Praticados por Particular Contra a Administração em Geral"
+    },
+    {
+      "id": 182,
+      "quote": "Iludir, no todo или em parte, o pagamento de direito ou imposto devido pela entrada, pela saída ou pelo consumo de mercadoria: Pena - reclusão, de 1 (um) a 4 (quatro) anos.",
+      "artigo": "Art. 334-A - Parte Especial, Título XI - Dos Crimes Contra a Administração Pública, Capítulo II - Dos Crimes Praticados por Particular Contra a Administração em Geral"
+    },
+    {
+      "id": 183,
+      "quote": "Prometer, oferecer ou dar, direta ou indiretamente, vantagem indevida a funcionário público estrangeiro, ou a terceira pessoa, para determiná-lo a praticar, omitir ou retardar ato de ofício relacionado à transação comercial internacional: Pena - reclusão, de 1 (um) a 8 (oito) anos, e multa.",
+      "artigo": "Art. 337-B - Parte Especial, Título XI - Dos Crimes Contra a Administração Pública, Capítulo II-A - Dos Crimes Praticados por Particular Contra a Administração Pública Estrangeira"
+    },
+    {
+      "id": 184,
+      "quote": "Reingressar no território nacional o estrangeiro que dele foi expulso: Pena - reclusão, de um a quatro anos, sem prejuízo de nova expulsão após o cumprimento da pena.",
+      "artigo": "Art. 338 - Parte Especial, Título XI - Dos Crimes Contra a Administração da Justiça"
+    },
+    {
+      "id": 185,
+      "quote": "Provocar a ação de autoridade, comunicando-lhe a ocorrência de crime ou de contravenção que sabe não se ter verificado: Pena - detenção, de um a seis meses, ou multa.",
+      "artigo": "Art. 340 - Parte Especial, Título XI - Dos Crimes Contra a Administração da Justiça"
+    },
+    {
+      "id": 186,
+      "quote": "Acusar-se, perante a autoridade, de crime inexistente ou praticado por outrem: Pena - detenção, de três meses a dois anos, ou multa.",
+      "artigo": "Art. 341 - Parte Especial, Título XI - Dos Crimes Contra a Administração da Justiça"
+    },
+    {
+      "id": 187,
+      "quote": "Dar, oferecer ou prometer dinheiro ou qualquer outra vantagem a testemunha, perito, contador, tradutor ou intérprete, para fazer afirmação falsa, negar ou calar a verdade em depoimento, perícia, cálculos, tradução ou interpretação: Pena - reclusão, de três a quatro anos, e multa.",
+      "artigo": "Art. 343 - Parte Especial, Título XI - Dos Crimes Contra a Administração da Justiça"
+    },
+    {
+      "id": 188,
+      "quote": "Usar de violência ou grave ameaça, com o fim de favorecer interesse próprio ou alheio, contra autoridade, parte, ou qualquer outra pessoa que funciona ou é chamada a intervir em processo judicial, policial ou administrativo, ou em juízo arbitral: Pena - reclusão, de um a quatro anos, e multa, além da pena correspondente à violência.",
+      "artigo": "Art. 344 - Parte Especial, Título XI - Dos Crimes Contra a Administração da Justiça"
+    },
+    {
+      "id": 189,
+      "quote": "Fazer justiça pelas próprias mãos, para satisfazer pretensão, embora legítima, salvo quando a lei o permite: Pena - detenção, de quinze dias a um mês, ou multa, além da pena correspondente à violência.",
+      "artigo": "Art. 345 - Parte Especial, Título XI - Dos Crimes Contra a Administração da Justiça"
+    },
+    {
+      "id": 190,
+      "quote": "Tirar, suprimir, destruir ou danificar coisa própria, que se acha em poder de terceiro por determinação judicial ou convenção: Pena - detenção, de seis meses a dois anos, e multa.",
+      "artigo": "Art. 346 - Parte Especial, Título XI - Dos Crimes Contra a Administração da Justiça"
+    },
+    {
+      "id": 191,
+      "quote": "Inovar artificiosamente, na pendência de processo civil ou administrativo, o estado de lugar, de coisa ou de pessoa, com o fim de induzir a erro o juiz ou o perito: Pena - detenção, de três meses a dois anos, e multa.",
+      "artigo": "Art. 347 - Parte Especial, Título XI - Dos Crimes Contra a Administração da Justiça"
+    },
+    {
+      "id": 192,
+      "quote": "Auxiliar a subtrair-se à ação da autoridade pública autor de crime a que é cominada pena de reclusão: Pena - detenção, de um a seis meses, e multa.",
+      "artigo": "Art. 348 - Parte Especial, Título XI - Dos Crimes Contra a Administração da Justiça"
+    },
+    {
+      "id": 193,
+      "quote": "Prestar a criminoso, fora dos casos de co-autoria ou de receptação, auxílio destinado a tornar seguro o proveito do crime: Pena - detenção, de um a seis meses, e multa.",
+      "artigo": "Art. 349 - Parte Especial, Título XI - Dos Crimes Contra a Administração da Justiça"
+    },
+    {
+      "id": 194,
+      "quote": "Patrocinar, simultânea ou sucessivamente, partes contrárias, no mesmo juízo, ou em juízo diverso, iludindo ou enganando o juiz: Pena - detenção, de seis meses a três anos, e multa.",
+      "artigo": "Art. 355 - Parte Especial, Título XI - Dos Crimes Contra a Administração da Justiça"
+    },
+    {
+      "id": 195,
+      "quote": "Explorar prestígio, real ou suposto, para obter ou influir na obtenção de sentença ou decisão favorável a si ou a outrem: Pena - reclusão, de um a cinco anos, e multa.",
+      "artigo": "Art. 357 - Parte Especial, Título XI - Dos Crimes Contra a Administração da Justiça"
+    },
+    {
+      "id": 196,
+      "quote": "Ordenar, autorizar ou realizar operação de crédito, interno ou externo, sem prévia autorização legislativa: Pena - reclusão, de 1 (um) a 2 (dois) anos.",
+      "artigo": "Art. 359-A - Parte Especial, Título XI - Dos Crimes Contra as Finanças Públicas"
+    },
+    {
+      "id": 197,
+      "quote": "Ordenar ou autorizar a inscrição, em restos a pagar, de despesa que não tenha sido previamente empenhada ou que exceda limite estabelecido em lei: Pena - detenção, de 6 (seis) meses a 2 (dois) anos.",
+      "artigo": "Art. 359-B - Parte Especial, Título XI - Dos Crimes Contra as Finanças Públicas"
+    },
+    {
+      "id": 198,
+      "quote": "Ordenar despesa não autorizada por lei: Pena - reclusão, de 1 (um) a 4 (quatro) anos.",
+      "artigo": "Art. 359-D - Parte Especial, Título XI - Dos Crimes Contra as Finanças Públicas"
+    },
+    {
+      "id": 199,
+      "quote": "Tentar, com emprego de violência ou grave ameaça, abolir o Estado Democrático de Direito, impedindo ou restringindo o exercício dos poderes constitucionais: Pena - reclusão, de 4 (quatro) a 8 (oito) anos, além da pena correspondente à violência.",
+      "artigo": "Art. 359-L - Parte Especial, Título XII - Dos Crimes Contra o Estado Democrático de Direito"
+    },
+    {
+      "id": 200,
+      "quote": "Tentar depor, por meio de violência ou grave ameaça, o governo legitimamente constituído: Pena - reclusão, de 4 (quatro) a 12 (doze) anos, além da pena correspondente à violência.",
+      "artigo": "Art. 359-M - Parte Especial, Título XII - Dos Crimes Contra o Estado Democrático de Direito"
+    },
+    {
+      "id": 201,
+      "quote": "Promover ou financiar a formação de grupo armado, civil ou militar, para a prática dos crimes previstos no art. 359-L e 359-M deste Código: Pena - reclusão, de 6 (seis) a 10 (dez) anos.",
+      "artigo": "Art. 359-N - Parte Especial, Título XII - Dos Crimes Contra o Estado Democrático de Direito"
+    },
+    {
+      "id": 202,
+      "quote": "Impedir ou perturbar a eleição ou a aferição de seu resultado, mediante violação indevida de mecanismos de segurança do sistema eletrônico de votação estabelecidos pela Justiça Eleitoral: Pena - reclusão, de 3 (três) a 6 (seis) anos, e multa.",
+      "artigo": "Art. 359-P - Parte Especial, Título XII - Dos Crimes Contra o Estado Democrático de Direito"
+    },
+    {
+      "id": 203,
+      "quote": "Divulgar, no período de campanha eleitoral, fatos que sabe inverídicos, em relação a partidos ou a candidatos e capazes de exercer influência perante o eleitorado: Pena - detenção, de dois meses a um ano, ou pagamento de 120 a 150 dias-multa.",
+      "artigo": "Art. 323 do Código Eleitoral (Lei nº 4.737/65) - Legislação Penal Especial"
+    },
+    {
+      "id": 204,
+      "quote": "Caluniar alguém, na propaganda eleitoral, ou visando fins de propaganda, imputando-lhe falsamente fato definido como crime: Pena - detenção, de seis meses a dois anos, e pagamento de 10 a 40 dias-multa.",
+      "artigo": "Art. 324 do Código Eleitoral (Lei nº 4.737/65) - Legislação Penal Especial"
+    },
+    {
+      "id": 205,
+      "quote": "Difamar alguém, na propaganda eleitoral, ou visando a fins de propaganda, imputando-lhe fato ofensivo à sua reputação: Pena - detenção, de três meses a um ano, e pagamento de 5 a 30 dias-multa.",
+      "artigo": "Art. 325 do Código Eleitoral (Lei nº 4.737/65) - Legislação Penal Especial"
+    },
+    {
+      "id": 206,
+      "quote": "Injuriar alguém, na propaganda eleitoral, ou visando a fins de propaganda, ofendendo-lhe a dignidade ou o decoro: Pena - detenção, até seis meses, ou pagamento de 30 a 60 dias-multa.",
+      "artigo": "Art. 326 do Código Eleitoral (Lei nº 4.737/65) - Legislação Penal Especial"
+    },
+    {
+      "id": 207,
+      "quote": "Praticar, induzir ou incitar a discriminação ou preconceito de raça, cor, etnia, religião ou procedência nacional. Pena: reclusão de um a três anos e multa.",
+      "artigo": "Art. 20 da Lei nº 7.716/89 (Lei do Racismo) - Legislação Penal Especial"
+    },
+    {
+      "id": 208,
+      "quote": "Injuriar alguém, ofendendo-lhe a dignidade ou o decoro, em razão de raça, cor, etnia, religião, origem ou a condição de pessoa idosa ou portadora de deficiência: Pena - reclusão de um a três anos e multa.",
+      "artigo": "Art. 140, § 3º do Código Penal (Injúria Racial) - Parte Especial, Título I"
+    },
+    {
+      "id": 209,
+      "quote": "Adquirir, guardar, ter em depósito, transportar ou trazer consigo, para consumo pessoal, drogas sem autorização ou em desacordo com determinação legal ou regulamentar: Penas - advertência sobre os efeitos das drogas, prestação de serviços à comunidade, medida educativa de comparecimento a programa ou curso educativo.",
+      "artigo": "Art. 28 da Lei nº 11.343/06 (Lei de Drogas) - Legislação Penal Especial"
+    },
+    {
+      "id": 210,
+      "quote": "Importar, exportar, remeter, preparar, produzir, fabricar, adquirir, vender, expor à venda, oferecer, ter em depósito, transportar, trazer consigo, guardar, prescrever, ministrar, entregar a consumo ou fornecer drogas, ainda que gratuitamente, sem autorização ou em desacordo com determinação legal ou regulamentar: Pena - reclusão de 5 (cinco) a 15 (quinze) anos e pagamento de 500 (quinhentos) a 1.500 (mil e quinhentos) dias-multa.",
+      "artigo": "Art. 33 da Lei nº 11.343/06 (Lei de Drogas) - Legislação Penal Especial"
+    },
+    {
+      "id": 211,
+      "quote": "Associarem-se duas ou mais pessoas para o fim de praticar, reiteradamente ou não, qualquer dos crimes previstos nos arts. 33, caput e § 1º, e 34 desta Lei: Pena - reclusão, de 3 (três) a 10 (dez) anos, e pagamento de 700 (setecentos) a 1.200 (mil e duzentos) dias-multa.",
+      "artigo": "Art. 35 da Lei nº 11.343/06 (Lei de Drogas) - Legislação Penal Especial"
+    },
+    {
+      "id": 212,
+      "quote": "Praticar tortura: Constranger alguém com emprego de violência ou grave ameaça, causando-lhe sofrimento físico ou mental: a) com o fim de obter informação, declaração ou confissão da vítima ou de terceira pessoa; b) para provocar ação ou omissão de natureza criminosa; c) em razão de discriminação racial ou religiosa. Pena - reclusão, de dois a oito anos.",
+      "artigo": "Art. 1º da Lei nº 9.455/97 (Lei de Tortura) - Legislação Penal Especial"
+    },
+    {
+      "id": 213,
+      "quote": "Omitir-se em face dessas condutas, quando tinha o dever de evitá-las ou apurá-las. Pena - detenção, de um a quatro anos.",
+      "artigo": "Art. 1º, § 2º da Lei nº 9.455/97 (Lei de Tortura) - Legislação Penal Especial"
+    },
+    {
+      "id": 214,
+      "quote": "Constituir, organizar, integrar, manter ou custear organização criminosa. Pena: reclusão, de 3 (três) a 8 (oito) anos, e multa, sem prejuízo das penas correspondentes às demais infrações penais praticadas.",
+      "artigo": "Art. 2º da Lei nº 12.850/13 (Lei de Organização Criminosa) - Legislação Penal Especial"
+    },
+    {
+      "id": 215,
+      "quote": "Produzir, reproduzir, dirigir, fotografar, filmar ou registrar, por qualquer meio, cena de sexo explícito ou pornográfica, envolvendo criança ou adolescente: Pena - reclusão, de 4 (quatro) a 8 (oito) anos, и multa.",
+      "artigo": "Art. 240 do Estatuto da Criança e do Adolescente (Lei 8.069/90) - Legislação Penal Especial"
+    },
+    {
+      "id": 216,
+      "quote": "Oferecer, trocar, disponibilizar, transmitir, vender ou expor à venda, distribuir, publicar ou divulgar, por qualquer meio, fotografia, vídeo ou outro registro que contenha cena de sexo explícito ou pornográfica de criança ou adolescente: Pena - reclusão, de 3 (três) a 6 (seis) anos, e multa.",
+      "artigo": "Art. 241-A do Estatuto da Criança e do Adolescente (Lei 8.069/90) - Legislação Penal Especial"
+    },
+    {
+      "id": 217,
+      "quote": "Submeter criança ou adolescente sob sua autoridade, guarda ou vigilância a vexame ou a constrangimento: Pena - detenção de seis meses a dois anos.",
+      "artigo": "Art. 232 do Estatuto da Criança e do Adolescente (Lei 8.069/90) - Legislação Penal Especial"
+    },
+    {
+      "id": 218,
+      "quote": "Ocultar ou dissimular a natureza, origem, localização, disposição, movimentação ou propriedade de bens, direitos ou valores provenientes, direta ou indiretamente, de infração penal. Pena: reclusão, de 3 (três) a 10 (dez) anos, e multa.",
+      "artigo": "Art. 1º da Lei nº 9.613/98 (Lei de Lavagem de Dinheiro) - Legislação Penal Especial"
+    },
+    {
+      "id": 219,
+      "quote": "São crimes de responsabilidade dos prefeitos municipais, sujeitos ao julgamento do Poder Judiciário, independentemente do pronunciamento da Câmara dos Vereadores: I - apropriar-se de bens ou rendas públicas, ou desviá-los em proveito próprio ou alheio; ...",
+      "artigo": "Art. 1º do Decreto-Lei nº 201/67 (Crimes de Responsabilidade de Prefeitos) - Legislação Penal Especial"
+    },
+    {
+      "id": 220,
+      "quote": "São infrações político-administrativas dos Prefeitos Municipais sujeitas ao julgamento pela Câmara dos Vereadores e sancionadas com a cassação do mandato: I - Impedir o funcionamento regular da Câmara; ...",
+      "artigo": "Art. 4º do Decreto-Lei nº 201/67 (Infrações Político-Administrativas) - Legislação Penal Especial"
+    },
+    {
+      "id": 221,
+      "quote": "Abusar do poder econômico, desviando a clientela de um ou mais concorrentes, por meio de ajuste ou acordo que importe em cartel ou açambarcamento: Pena - reclusão, de dois a cinco anos, ou multa.",
+      "artigo": "Art. 4º da Lei nº 8.137/90 (Crimes Contra a Ordem Tributária, Econômica e Relações de Consumo) - Legislação Penal Especial"
+    },
+    {
+      "id": 222,
+      "quote": "Formar acordo, convênio, ajuste ou aliança entre ofertantes, visando: a) à fixação artificial de preços ou quantidades vendidas ou produzidas; b) ao controle regionalizado do mercado por empresa ou grupo de empresas; c) ao controle, em detrimento da concorrência, de rede de distribuição ou de fornecedores. Pena - reclusão, de 2 (dois) a 5 (cinco) anos, ou multa.",
+      "artigo": "Art. 4º, II da Lei nº 8.137/90 (Crimes Contra a Ordem Econômica) - Legislação Penal Especial"
+    },
+    {
+      "id": 223,
+      "quote": "Constituir crime contra a ordem tributária suprimir ou reduzir tributo, ou contribuição social e qualquer acessório, mediante as seguintes condutas: I - omitir informação, ou prestar declaração falsa às autoridades fazendárias; ... Pena - reclusão de 2 (dois) a 5 (cinco) anos, e multa.",
+      "artigo": "Art. 1º da Lei nº 8.137/90 (Crimes Contra a Ordem Tributária) - Legislação Penal Especial"
+    },
+    {
+      "id": 224,
+      "quote": "Praticar homicídio culposo na direção de veículo automotor: Penas - detenção, de dois a quatro anos, e suspensão ou proibição de se obter a permissão ou a habilitação para dirigir veículo automotor.",
+      "artigo": "Art. 302 do Código de Trânsito Brasileiro (Lei nº 9.503/97) - Legislação Penal Especial"
+    },
+    {
+      "id": 225,
+      "quote": "Praticar lesão corporal culposa na direção de veículo automotor: Penas - detenção, de seis meses a dois anos e suspensão ou proibição de se obter a permissão ou a habilitação para dirigir veículo automotor.",
+      "artigo": "Art. 303 do Código de Trânsito Brasileiro (Lei nº 9.503/97) - Legislação Penal Especial"
+    },
+    {
+      "id": 226,
+      "quote": "Afastar-se o condutor do veículo do local do acidente, para fugir à responsabilidade penal ou civil que lhe possa ser atribuída: Penas - detenção, de seis meses a um ano, ou multa.",
+      "artigo": "Art. 305 do Código de Trânsito Brasileiro (Lei nº 9.503/97) - Legislação Penal Especial"
+    },
+    {
+      "id": 227,
+      "quote": "Conduzir veículo automotor com capacidade psicomotora alterada em razão da influência de álcool ou de outra substância psicoativa que determine dependência: Penas - detenção, de seis meses a três anos, multa e suspensão ou proibição de se obter a permissão ou a habilitação para dirigir veículo automotor.",
+      "artigo": "Art. 306 do Código de Trânsito Brasileiro (Lei nº 9.503/97) - Legislação Penal Especial"
+    },
+    {
+      "id": 228,
+      "quote": "Participar, na direção de veículo automotor, em via pública, de corrida, disputa ou competição automobilística não autorizada pela autoridade competente, gerando situação de risco à incolumidade pública ou privada: Penas - detenção, de seis meses a três anos, multa e suspensão ou proibição de se obter a permissão ou a habilitação para dirigir veículo automotor.",
+      "artigo": "Art. 308 do Código de Trânsito Brasileiro (Lei nº 9.503/97) - Legislação Penal Especial"
+    },
+    {
+      "id": 229,
+      "quote": "Disparar arma de fogo ou acionar munição em lugar habitado ou em suas adjacências, em via pública ou em direção a ela, desde que essa conduta não tenha como finalidade a prática de outro crime: Pena – reclusão, de 2 (dois) a 4 (quatro) anos, e multa.",
+      "artigo": "Art. 15 da Lei nº 10.826/03 (Estatuto do Desarmamento) - Legislação Penal Especial"
+    },
+    {
+      "id": 230,
+      "quote": "Portar, deter, adquirir, fornecer, receber, ter em depósito, transportar, ceder, ainda que gratuitamente, emprestar, remeter, empregar, manter sob guarda ou ocultar arma de fogo, acessório ou munição, de uso permitido, sem autorização e em desacordo com determinação legal ou regulamentar: Pena – reclusão, de 2 (dois) a 4 (quatro) anos, e multa.",
+      "artigo": "Art. 14 da Lei nº 10.826/03 (Estatuto do Desarmamento) - Legislação Penal Especial"
+    },
+    {
+      "id": 231,
+      "quote": "Possuir ou manter sob sua guarda arma de fogo, acessório ou munição, de uso permitido, em desacordo com determinação legal ou regulamentar, no interior de sua residência ou dependência desta, ou, ainda, no seu local de trabalho, desde que seja o titular ou o responsável legal do estabelecimento ou empresa: Pena – detenção, de 1 (um) a 3 (três) anos, e multa.",
+      "artigo": "Art. 12 da Lei nº 10.826/03 (Estatuto do Desarmamento) - Legislação Penal Especial"
+    },
+    {
+      "id": 232,
+      "quote": "Portar, deter, adquirir, fornecer, receber, ter em depósito, transportar, ceder, ainda que gratuitamente, emprestar, remeter, empregar, manter sob sua guarda ou ocultar arma de fogo, acessório ou munição de uso restrito, sem autorização e em desacordo com determinação legal ou regulamentar: Pena - reclusão, de 3 (três) a 6 (seis) anos, e multa.",
+      "artigo": "Art. 16 da Lei nº 10.826/03 (Estatuto do Desarmamento) - Legislação Penal Especial"
+    },
+    {
+      "id": 233,
+      "quote": "Produzir, recarregar ou reciclar, sem autorização legal, ou adulterar, de qualquer forma, munição ou explosivo: Pena – reclusão, de 3 (três) a 6 (seis) anos, e multa.",
+      "artigo": "Art. 16, § 1º, II da Lei nº 10.826/03 (Estatuto do Desarmamento) - Legislação Penal Especial"
+    },
+    {
+      "id": 234,
+      "quote": "Importar, exportar, favorecer a entrada ou saída do território nacional, a qualquer título, de arma de fogo, acessório ou munição, sem autorização da autoridade competente: Pena - reclusão, de 8 (oito) a 16 (dezesseis) anos, e multa.",
+      "artigo": "Art. 18 da Lei nº 10.826/03 (Estatuto do Desarmamento) - Legislação Penal Especial"
+    },
+    {
+      "id": 235,
+      "quote": "Descumprir decisão judicial que defere medidas protetivas de urgência previstas nesta Lei: Pena – detenção, de 3 (três) meses a 2 (dois) anos.",
+      "artigo": "Art. 24-A da Lei nº 11.340/06 (Lei Maria da Penha) - Legislação Penal Especial"
+    },
+    {
+      "id": 236,
+      "quote": "Causar poluição de qualquer natureza em níveis tais que resultem ou possam resultar em danos à saúde humana, ou que provoquem a mortandade de animais ou a destruição significativa da flora. Pena - reclusão, de um a quatro anos, e multa.",
+      "artigo": "Art. 54 da Lei nº 9.605/98 (Lei de Crimes Ambientais) - Legislação Penal Especial"
+    },
+    {
+      "id": 237,
+      "quote": "Destruir ou danificar floresta considerada de preservação permanente, mesmo que em formação, ou utilizá-la com infringência das normas de proteção: Pena - detenção, de um a três anos, ou multa, ou ambas as penas cumulativamente.",
+      "artigo": "Art. 38 da Lei nº 9.605/98 (Lei de Crimes Ambientais) - Legislação Penal Especial"
+    },
+    {
+      "id": 238,
+      "quote": "Praticar ato de abuso, maus-tratos, ferir ou mutilar animais silvestres, domésticos ou domesticados, nativos ou exóticos: Pena - detenção, de três meses a um ano, e multa.",
+      "artigo": "Art. 32 da Lei nº 9.605/98 (Lei de Crimes Ambientais) - Legislação Penal Especial"
+    },
+    {
+      "id": 239,
+      "quote": "Quando se tratar de cão ou gato, a pena para as condutas descritas no caput deste artigo será de reclusão, de 2 (dois) a 5 (cinco) anos, multa e proibição da guarda.",
+      "artigo": "Art. 32, § 1º-A da Lei nº 9.605/98 (Lei de Crimes Ambientais) - Legislação Penal Especial"
+    },
+    {
+      "id": 240,
+      "quote": "Pichar, grafitar ou por outro meio conspurcar edificação ou monumento urbano: Pena - detenção, de 3 (três) meses a 1 (um) ano, e multa.",
+      "artigo": "Art. 65 da Lei nº 9.605/98 (Lei de Crimes Ambientais) - Legislação Penal Especial"
+    },
+    {
+      "id": 241,
+      "quote": "Deixar o médico de denunciar à autoridade pública doença cuja notificação é compulsória: Pena - detenção, de seis meses a dois anos, e multa.",
+      "artigo": "Art. 269 - Parte Especial, Título VIII - Dos Crimes Contra a Saúde Pública"
+    },
+    {
+      "id": 242,
+      "quote": "Promover ou constituir organização terrorista, estruturada e ordenada à prática de atos de terrorismo: Pena - reclusão, de cinco a oito anos, e multa.",
+      "artigo": "Art. 3º da Lei nº 13.260/16 (Lei Antiterrorismo) - Legislação Penal Especial"
+    },
+    {
+      "id": 243,
+      "quote": "Realizar, pública ou privadamente, com ou sem intenção de lucro, aposta sobre corrida de cavalos fora de hipódromo ou de local onde sejam autorizadas: Pena - prisão simples, de 2 (dois) a 6 (seis) meses, e multa.",
+      "artigo": "Art. 51 do Decreto-Lei nº 3.688/41 (Lei das Contravenções Penais) - Legislação Penal Especial"
+    },
+    {
+      "id": 244,
+      "quote": "Explorar ou realizar a loteria denominada jogo do bicho, ou praticar qualquer ato relativo à sua realização ou exploração: Pena - prisão simples, de 4 (quatro) meses a 1 (um) ano, e multa.",
+      "artigo": "Art. 58 do Decreto-Lei nº 3.688/41 (Lei das Contravenções Penais) - Legislação Penal Especial"
+    },
+    {
+      "id": 245,
+      "quote": "Perturbar alguém, o trabalho ou o sossego alheios: I - com gritaria ou algazarra; II - exercendo profissão incômoda ou ruidosa, em desacordo com as prescrições legais; III - abusando de instrumentos sonoros ou sinais acústicos; IV - provocando ou não procurando impedir barulho produzido por animal de que tem a guarda: Pena - prisão simples, de quinze dias a três meses, ou multa.",
+      "artigo": "Art. 42 do Decreto-Lei nº 3.688/41 (Lei das Contravenções Penais) - Legislação Penal Especial"
+    },
+    {
+      "id": 246,
+      "quote": "Praticar vias de fato contra alguém: Pena - prisão simples, de quinze dias a três meses, ou multa, se o fato não constitui crime.",
+      "artigo": "Art. 21 do Decreto-Lei nº 3.688/41 (Lei das Contravenções Penais) - Legislação Penal Especial"
+    },
+    {
+      "id": 247,
+      "quote": "Importunar alguém, em lugar público ou acessível ao público, de modo ofensivo ao pudor: Pena - multa.",
+      "artigo": "Art. 61 do Decreto-Lei nº 3.688/41 (Lei das Contravenções Penais) - Legislação Penal Especial"
+    },
+    {
+      "id": 248,
+      "quote": "Deixar de tomar as cautelas necessárias para que o animal de sua propriedade não cause dano a outrem: Pena - prisão simples, de dez dias a dois meses, ou multa.",
+      "artigo": "Art. 31 do Decreto-Lei nº 3.688/41 (Lei das Contravenções Penais) - Legislação Penal Especial"
+    },
+    {
+      "id": 249,
+      "quote": "Servir bebidas alcoólicas: I - a menor de dezoito anos; II - a quem se acha em estado de embriaguez; III - a pessoa que o agente sabe sofrer das faculdades mentais; IV - a pessoa que o agente sabe estar judicialmente proibida de frequentar lugares onde se consome bebida de tal natureza: Pena - prisão simples, de dois meses a um ano, ou multa.",
+      "artigo": "Art. 63 do Decreto-Lei nº 3.688/41 (Lei das Contravenções Penais) - Legislação Penal Especial"
+    },
+    {
+      "id": 250,
+      "quote": "Exercer profissão ou atividade econômica ou anunciar que a exerce, sem preencher as condições a que por lei está subordinado o seu exercício: Pena - prisão simples, de quinze dias a três meses, ou multa.",
+      "artigo": "Art. 47 do Decreto-Lei nº 3.688/41 (Lei das Contravenções Penais) - Legislação Penal Especial"
+    },
+    {
+      "id": 251,
+      "quote": "Os crimes previstos nesta Lei são inafiançáveis e insuscetíveis de sursis, graça, indulto, anistia e liberdade provisória.",
+      "artigo": "Art. 2º da Lei nº 8.072/90 (Lei dos Crimes Hediondos) - Legislação Penal Especial"
+    },
+    {
+      "id": 252,
+      "quote": "Praticar, na direção de veículo automotor, em via pública, manobra perigosa, mediante arrancada brusca, derrapagem ou frenagem com deslizamento ou arrastamento de pneus: Pena - detenção, de seis meses a três anos, multa e suspensão ou proibição de se obter a permissão ou a habilitação para dirigir veículo automotor.",
+      "artigo": "Art. 311 do Código de Trânsito Brasileiro (Lei nº 9.503/97) - Legislação Penal Especial"
+    },
+    {
+      "id": 253,
+      "quote": "Oferecer ou prometer vantagem indevida a dirigente de entidade desportiva, ou a este solicitar ou aceitar, para si ou para outrem, vantagem ou promessa de vantagem, a fim de que altere ou omita em ato ou fato de sua competência: Pena - reclusão, de 2 (dois) a 6 (seis) anos, e multa.",
+      "artigo": "Art. 41-C do Estatuto do Torcedor (Lei nº 10.671/03) - Legislação Penal Especial"
+    },
+    {
+      "id": 254,
+      "quote": "Dar, prometer, oferecer ou entregar, a atleta ou a intermediário, com o fim de alterar ou falsear o resultado de competição desportiva ou evento a ela associado: Pena - reclusão, de 2 (dois) a 6 (seis) anos, e multa.",
+      "artigo": "Art. 41-D do Estatuto do Torcedor (Lei nº 10.671/03) - Legislação Penal Especial"
+    },
+    {
+      "id": 255,
+      "quote": "Promover tumulto, praticar ou incitar a violência, ou invadir local restrito aos competidores em eventos esportivos: Pena - reclusão, de 1 (um) a 2 (dois) anos, e multa.",
+      "artigo": "Art. 41-B do Estatuto do Torcedor (Lei nº 10.671/03) - Legislação Penal Especial"
+    },
+    {
+      "id": 256,
+      "quote": "Genocídio: Matar membros do grupo; Causar lesão grave à integridade física ou mental de membros do grupo; Submeter intencionalmente o grupo a condições de existência capazes de ocasionar-lhe a destruição física total ou parcial; Adotar medidas destinadas a impedir os nascimentos no seio do grupo; Efetuar a transferência forçada de crianças do grupo para outro grupo. Pena - Reclusão de 12 a 30 anos (para matar) e outras penas para os demais atos.",
+      "artigo": "Art. 1º da Lei nº 2.889/56 (Lei do Genocídio) - Legislação Penal Especial"
+    },
+    {
+      "id": 257,
+      "quote": "Incitar, por qualquer meio, à prática de qualquer dos crimes previstos no artigo 1º. Pena: metade das penas ali cominadas.",
+      "artigo": "Art. 2º da Lei nº 2.889/56 (Lei do Genocídio) - Legislação Penal Especial"
+    },
+    {
+      "id": 258,
+      "quote": "Decretar, em processo judicial, a indisponibilidade de ativos financeiros em quantia que extrapole exacerbadamente o valor estimado para a satisfação da dívida da parte e, ante a demonstração, pela parte, da excessividade da medida, deixar de corrigi-la: Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa.",
+      "artigo": "Art. 36 da Lei nº 13.869/19 (Lei de Abuso de Autoridade) - Legislação Penal Especial"
+    },
+    {
+      "id": 259,
+      "quote": "Deixar de comunicar, imediatamente, a execução de prisão temporária ou preventiva à autoridade judiciária que a decretou: Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa.",
+      "artigo": "Art. 12 da Lei nº 13.869/19 (Lei de Abuso de Autoridade) - Legislação Penal Especial"
+    },
+    {
+      "id": 260,
+      "quote": "Constranger o preso ou o detento, mediante violência, grave ameaça ou redução de sua capacidade de resistência, a: I - exibir-se ou ter seu corpo ou parte dele exibido à curiosidade pública; II - submeter-se a situação vexatória ou a constrangimento não autorizado em lei; III - produzir prova contra si mesmo ou contra terceiro: Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa, sem prejuízo da pena cominada à violência.",
+      "artigo": "Art. 13 da Lei nº 13.869/19 (Lei de Abuso de Autoridade) - Legislação Penal Especial"
+    },
+    {
+      "id": 261,
+      "quote": "Submeter o preso a interrogatório policial durante o período de repouso noturno, salvo se capturado em flagrante delito ou se ele, devidamente assistido, consentir em prestar declarações: Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa.",
+      "artigo": "Art. 18 da Lei nº 13.869/19 (Lei de Abuso de Autoridade) - Legislação Penal Especial"
+    },
+    {
+      "id": 262,
+      "quote": "Obter prova, em procedimento de investigação ou fiscalização, por meio manifestamente ilícito: Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa.",
+      "artigo": "Art. 25 da Lei nº 13.869/19 (Lei de Abuso de Autoridade) - Legislação Penal Especial"
+    },
+    {
+      "id": 263,
+      "quote": "Divulgar gravação ou trecho de gravação sem relação com a prova que se pretenda produzir, expondo a intimidade ou a vida privada ou ferindo a honra ou a imagem do investigado ou acusado: Pena - detenção, de 1 (um) a 4 (quatro) anos, e multa.",
+      "artigo": "Art. 28 da Lei nº 13.869/19 (Lei de Abuso de Autoridade) - Legislação Penal Especial"
+    },
+    {
+      "id": 264,
+      "quote": "Interromper ou perturbar celebração de casamento, altercando ou praticando qualquer ato que a perturbe: Pena - detenção, de um mês a um ano.",
+      "artigo": "Art. 238 do Código Penal - Parte Especial, Título VII, Capítulo I - Dos Crimes Contra o Casamento"
+    },
+    {
+      "id": 265,
+      "quote": "Conhecer o particular de ato ou fato que a lei qualifica como crime e, podendo fazê-lo, deixar de comunicá-lo à autoridade competente: Pena - multa.",
+      "artigo": "Art. 26 do Decreto-Lei nº 3.688/41 (Lei das Contravenções Penais) - Legislação Penal Especial"
+    },
+    {
+      "id": 266,
+      "quote": "Simular a qualidade de funcionário: Pena - prisão simples, de um a três meses, ou multa.",
+      "artigo": "Art. 45 do Decreto-Lei nº 3.688/41 (Lei das Contravenções Penais) - Legislação Penal Especial"
+    },
+    {
+      "id": 267,
+      "quote": "Usar, publicamente, de uniforme, ou distintivo de função pública que não exerce; usar, indevidamente, de sinal, distintivo ou denominação cujo uso seja regulado por lei: Pena - prisão simples, de quinze dias a seis meses, ou multa.",
+      "artigo": "Art. 46 do Decreto-Lei nº 3.688/41 (Lei das Contravenções Penais) - Legislação Penal Especial"
+    },
+    {
+      "id": 268,
+      "quote": "Causar poluição sonora: perturbar o sossego público com ruídos ou sons excessivos: Pena - multa.",
+      "artigo": "Art. 54 da Lei nº 9.605/98 (Lei de Crimes Ambientais) - Legislação Penal Especial"
+    },
+    {
+      "id": 269,
+      "quote": "Fabricar, adquirir, fornecer, possuir ou guardar objeto especialmente destinado à produção de droga: Pena - detenção, de seis meses a dois anos, e pagamento de 100 a 200 dias-multa.",
+      "artigo": "Art. 34 da Lei nº 11.343/06 (Lei de Drogas) - Legislação Penal Especial"
+    },
+    {
+      "id": 270,
+      "quote": "Conduzir embarcação em estado de embriaguez ou sob o efeito de substância tóxica de qualquer natureza: Pena - detenção, de seis meses a três anos, multa e suspensão ou proibição de se obter a permissão ou a habilitação para dirigir embarcação.",
+      "artigo": "Art. 13 da Lei nº 9.537/97 (Lei de Segurança do Tráfego Aquaviário) - Legislação Penal Especial"
+    },
+    {
+      "id": 271,
+      "quote": "Trafegar com velocidade incompatível com a segurança nas proximidades de escolas, hospitais, estações de embarque e desembarque de passageiros, logradouros com grande movimentação de pessoas, gerando perigo de dano: Penas - detenção, de seis meses a um ano, ou multa.",
+      "artigo": "Art. 311 do Código de Trânsito Brasileiro (Lei nº 9.503/97) - Legislação Penal Especial"
+    },
+    {
+      "id": 272,
+      "quote": "Fazer declaração falsa ou diversa da que devia ser escrita, com o fim de prejudicar direito, criar obrigação ou alterar a verdade sobre fato juridicamente relevante, perante a administração pública: Pena - reclusão, de um a cinco anos, e multa.",
+      "artigo": "Art. 299 do Código Penal - Parte Especial, Título X - Dos Crimes Contra a Fé Pública"
+    },
+    {
+      "id": 273,
+      "quote": "Suprimir ou reduzir contribuição social previdenciária e qualquer acessório, mediante as seguintes condutas: I - omitir de folha de pagamento da empresa ou de documento de informações previsto pela legislação previdenciária segurados empregado, empresário, trabalhador avulso ou trabalhador autônomo ou a este equiparado que lhe prestem serviços; ... Pena - reclusão, de 2 (dois) a 5 (cinco) anos, e multa.",
+      "artigo": "Art. 337-A do Código Penal - Parte Especial, Título XI - Dos Crimes Contra a Administração Pública"
+    },
+    {
+      "id": 274,
+      "quote": "Violar sigilo funcional: Facilitar ou concorrer, de qualquer forma, para a revelação de fato de que tem ciência em razão do cargo e que deva permanecer em segredo: Pena - detenção, de seis meses a dois anos, ou multa.",
+      "artigo": "Art. 325, § 1º, II do Código Penal - Parte Especial, Título XI - Dos Crimes Contra a Administração Pública"
+    },
+    {
+      "id": 275,
+      "quote": "Emprestar a outrem, mediante fraude, cartão de crédito ou de débito: Pena - reclusão, de um a cinco anos, e multa.",
+      "artigo": "Art. 171, § 2º-A do Código Penal - Parte Especial, Título II - Dos Crimes Contra o Patrimônio"
+    },
+    {
+      "id": 276,
+      "quote": "Apropriar-se de coisa que veio ao seu poder por erro, caso fortuito ou força da natureza: Pena - detenção, de um mês a um ano, ou multa.",
+      "artigo": "Art. 169 do Código Penal - Parte Especial, Título II - Dos Crimes Contra o Patrimônio"
+    },
+    {
+      "id": 277,
+      "quote": "Exercer o comércio, por si ou por interposta pessoa, de produto de que tem a fabricação ou a venda, como funcionário público: Pena - detenção, de três meses a um ano, ou multa.",
+      "artigo": "Art. 323 do Código Penal - Parte Especial, Título XI - Dos Crimes Contra a Administração Pública"
+    },
+    {
+      "id": 278,
+      "quote": "Desviar, ou aplicar indevidamente, rendas ou verbas públicas em proveito próprio ou alheio: Pena - reclusão, de dois a doze anos, e multa.",
+      "artigo": "Art. 1º, I do Decreto-Lei nº 201/67 (Crimes de Responsabilidade de Prefeitos) - Legislação Penal Especial"
+    },
+    {
+      "id": 279,
+      "quote": "Deixar de prestar contas anuais da administração financeira do Município à Câmara de Vereadores, ou ao órgão a que competir a fiscalização: Pena - detenção, de três meses a três anos.",
+      "artigo": "Art. 1º, VI do Decreto-Lei nº 201/67 (Crimes de Responsabilidade de Prefeitos) - Legislação Penal Especial"
+    },
+    {
+      "id": 280,
+      "quote": "Antecipar ou inverter a ordem de pagamento a credores do Município, sem vantagem para o erário: Pena - detenção, de um a três meses.",
+      "artigo": "Art. 1º, XII do Decreto-Lei nº 201/67 (Crimes de Responsabilidade de Prefeitos) - Legislação Penal Especial"
+    },
+    {
+      "id": 281,
+      "quote": "Vender ou expor à venda, em público, mercadoria que sabe ser produto de crime: Pena - reclusão, de um a quatro anos, e multa.",
+      "artigo": "Art. 180, § 1º do Código Penal - Parte Especial, Título II - Dos Crimes Contra o Patrimônio"
+    },
+    {
+      "id": 282,
+      "quote": "Adulterar sinal identificador de veículo automotor: Pena - reclusão, de três a seis anos, e multa.",
+      "artigo": "Art. 311 do Código Penal - Parte Especial, Título X - Dos Crimes Contra a Fé Pública"
+    },
+    {
+      "id": 283,
+      "quote": "Patrocinar interesse privado ilegítimo perante a administração pública: Pena - detenção, de um a três meses, ou multa.",
+      "artigo": "Art. 321, parágrafo único, do Código Penal - Parte Especial, Título XI - Dos Crimes Contra a Administração Pública"
+    },
+    {
+      "id": 284,
+      "quote": "Impedir, embaraçar ou dificultar investigação de infração penal que envolva organização criminosa: Pena - reclusão, de 3 (três) a 8 (oito) anos, e multa.",
+      "artigo": "Art. 2º, § 1º, da Lei nº 12.850/13 (Lei de Organização Criminosa) - Legislação Penal Especial"
+    },
+    {
+      "id": 285,
+      "quote": "Revelar a identidade, fotografar ou filmar criança ou adolescente envolvido em ato infracional, ou qualquer ilustração que lhe diga respeito ou se refira a seus pais ou responsáveis, sem autorização devida: Pena - detenção, de seis meses a dois anos, e multa.",
+      "artigo": "Art. 247 do Estatuto da Criança e do Adolescente (Lei 8.069/90) - Legislação Penal Especial"
+    },
+    {
+      "id": 286,
+      "quote": "Divulgar, total ou parcialmente, sem autorização devida, por qualquer meio de comunicação, nome, ato ou documento de processo em segredo de justiça, envolvendo criança ou adolescente a que se atribua ato infracional: Pena - detenção, de seis meses a dois anos, e multa.",
+      "artigo": "Art. 247, § 1º, do Estatuto da Criança e do Adolescente (Lei 8.069/90) - Legislação Penal Especial"
+    },
+    {
+      "id": 287,
+      "quote": "Exigir cheque-caução, nota promissória ou qualquer garantia, bem como o preenchimento prévio de formulários administrativos, como condição para o atendimento médico-hospitalar emergencial: Pena - detenção, de 3 (três) meses a 1 (um) ano, e multa.",
+      "artigo": "Art. 135-A do Código Penal - Parte Especial, Título I - Dos Crimes Contra a Pessoa"
+    },
+    {
+      "id": 288,
+      "quote": "Deixar de identificar-se ao preso por ocasião de sua captura ou quando deva fazê-lo durante sua detenção ou prisão: Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa.",
+      "artigo": "Art. 16 da Lei nº 13.869/19 (Lei de Abuso de Autoridade) - Legislação Penal Especial"
+    },
+    {
+      "id": 289,
+      "quote": "Requisitar instauração ou instaurar procedimento investigatório de infração penal ou administrativa, em desfavor de alguém, à falta de qualquer indício da prática de crime, de ilícito funcional ou de infração administrativa: Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa.",
+      "artigo": "Art. 27 da Lei nº 13.869/19 (Lei de Abuso de Autoridade) - Legislação Penal Especial"
+    },
+    {
+      "id": 290,
+      "quote": "Dar causa à instauração de procedimento investigatório contra alguém, imputando-lhe a prática de infração penal de que o sabe inocente: Pena - reclusão, de dois a oito anos, e multa.",
+      "artigo": "Art. 339 do Código Penal (Denunciação Caluniosa) - Parte Especial, Título XI - Dos Crimes Contra a Administração da Justiça"
+    },
+    {
+      "id": 291,
+      "quote": "Apropriar-se de coisa achada, que lhe veio ao poder por erro, caso fortuito ou força da natureza, e não a restituir ao dono ou legítimo possuidor ou não a entregar à autoridade competente, dentro no prazo de 15 (quinze) dias: Pena - detenção, de um mês a um ano, ou multa.",
+      "artigo": "Art. 169, parágrafo único, II do Código Penal - Parte Especial, Título II - Dos Crimes Contra o Patrimônio"
+    },
+    {
+      "id": 292,
+      "quote": "Introduzir ou deixar animais em propriedade alheia, sem consentimento de quem de direito, desde que o fato resulte prejuízo: Pena - detenção, de quinze dias a seis meses, ou multa.",
+      "artigo": "Art. 164 do Código Penal - Parte Especial, Título II - Dos Crimes Contra o Patrimônio"
+    },
+    {
+      "id": 293,
+      "quote": "Omitir socorro a pessoa idosa em situação de perigo, ou recusar, retardar ou dificultar sua assistência à saúde, sem justa causa, ou não pedir, nesses casos, o socorro de autoridade pública: Pena - detenção de 6 (seis) meses a 1 (um) ano e multa.",
+      "artigo": "Art. 97 do Estatuto do Idoso (Lei nº 10.741/03) - Legislação Penal Especial"
+    },
+    {
+      "id": 294,
+      "quote": "Expor a perigo a integridade e a saúde, física ou psíquica, do idoso, submetendo-o a condições desumanas ou degradantes ou privando-o de alimentos e cuidados indispensáveis, quando obrigado a fazê-lo, ou sujeitando-o a trabalho excessivo ou inadequado: Pena - detenção de 2 (dois) meses a 1 (um) ano e multa.",
+      "artigo": "Art. 99 do Estatuto do Idoso (Lei nº 10.741/03) - Legislação Penal Especial"
+    },
+    {
+      "id": 295,
+      "quote": "Apropriar-se de ou desviar bens, proventos, pensão ou qualquer outro rendimento do idoso, dando-lhes aplicação diversa da de sua finalidade: Pena - reclusão de 1 (um) a 4 (quatro) anos e multa.",
+      "artigo": "Art. 102 do Estatuto do Idoso (Lei nº 10.741/03) - Legislação Penal Especial"
+    },
+    {
+      "id": 296,
+      "quote": "Coagir, de qualquer modo, o idoso a doar, contratar, testar ou outorgar procuração: Pena - reclusão de 2 (dois) a 5 (cinco) anos.",
+      "artigo": "Art. 106 do Estatuto do Idoso (Lei nº 10.741/03) - Legislação Penal Especial"
+    },
+    {
+      "id": 297,
+      "quote": "Induzir pessoa idosa sem discernimento de seus atos a outorgar procuração para fins de administração de bens ou de deles dispor livremente: Pena - reclusão de 2 (dois) a 4 (quatro) anos.",
+      "artigo": "Art. 108 do Estatuto do Idoso (Lei nº 10.741/03) - Legislação Penal Especial"
+    },
+    {
+      "id": 298,
+      "quote": "Evadir-se ou tentar evadir-se o preso ou o indivíduo submetido a medida de segurança detentiva, usando de violência contra a pessoa: Pena - detenção, de um a quatro anos, além da pena correspondente à violência.",
+      "artigo": "Art. 352 do Código Penal - Parte Especial, Título XI - Dos Crimes Contra a Administração da Justiça"
+    }
+  ]
